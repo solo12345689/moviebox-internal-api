@@ -1,0 +1,3078 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "tabId": 8,
+    "items": [
+      {
+        "type": "BANNER",
+        "position": 1,
+        "title": "Banner_anime",
+        "groups": [],
+        "subjects": [],
+        "banner": {
+          "interval": "4",
+          "autoPlay": true,
+          "banners": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/18/81b5a6fecfa4e12ab6ab9334c81aae35.jpg",
+                "width": 1258,
+                "height": 1258,
+                "size": 965351,
+                "format": "jpg",
+                "thumbnail": "eBB{.n9v5@^l4U9,?I$kI:yC0:n-?FW+x[-URjT1o}soxrxtRmV^WF",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#524967",
+                "averageHueDark": "#544d66"
+              },
+              "content": "Invincible S4[Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=3711094262294086728&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "3711094262294086728",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "3711094262294086728",
+                "title": "Invincible [Hindi]",
+                "releaseDate": "2021",
+                "genre": "Animation,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2022/11/09/7b58210cfc8da4c862515d672a710bbd.jpg",
+                  "width": 1018,
+                  "height": 1500,
+                  "size": 174484,
+                  "format": "jpg",
+                  "thumbnail": "eKF}cW,[0*aeM}|2-BS}xEt6ml-Rob%0t5^Ir;IpniWBM#NGt5aMax",
+                  "gif": null,
+                  "averageHueLight": "#765d3e",
+                  "averageHueDark": "#665135"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/invincible-hindi-mrCGkBLQ8q4",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/19/0a5bebeddc5ce767482b309a79c615a9.jpg",
+                "width": 1120,
+                "height": 1120,
+                "size": 1283295,
+                "format": "jpg",
+                "thumbnail": "eEF=LK?K4zN2IDD^RnxTaebEIMNExpxYtQ$,nzbttmR%Ioj^oNjus:",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#83678b",
+                "averageHueDark": "#614f66"
+              },
+              "content": "Steel Ball Run: JoJo's Bizarre Adventure [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=4553713742256692024&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "4553713742256692024",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "4553713742256692024",
+                "title": "Steel Ball Run: JoJo's Bizarre Adventure [Hindi]",
+                "releaseDate": "2026",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2026/02/03/f382379df4ce3d04596dd7b646da40a2.jpg",
+                  "width": 1500,
+                  "height": 2115,
+                  "size": 586346,
+                  "format": "jpg",
+                  "thumbnail": "eFGRi1^-9iR;Ia-=tRogi{RQ5BRos*M_s;sINGe.V=bceajDoIt3bE",
+                  "gif": null,
+                  "averageHueLight": "#866e7b",
+                  "averageHueDark": "#66585f"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/steel-ball-run-jojos-bizarre-adventure-hindi-mZpfv4y3oq5",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/19/176759c073b7c9b8e8de1528b831b140.jpg",
+                "width": 905,
+                "height": 905,
+                "size": 833542,
+                "format": "jpg",
+                "thumbnail": "eUGIci.9~Wo$%2?H.8s8RkofxuD%M_RlNGbJjFR-n+tRX8%1M{xtoM",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#6f6978",
+                "averageHueDark": "#605d66"
+              },
+              "content": "Yuusha Party o Oidasareta Kiyou Binbou [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=1442406310246504224&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "1442406310246504224",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "1442406310246504224",
+                "title": "Yuusha Party o Oidasareta Kiyou Binbou [Hindi]",
+                "releaseDate": "2026",
+                "genre": "Anime,Fantasy",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2025/12/31/40d553b6c9cf43d2378fc9a1e2417e07.jpg",
+                  "width": 2897,
+                  "height": 4096,
+                  "size": 1378800,
+                  "format": "jpg",
+                  "thumbnail": "eFG[sWyE-p=|.8-W?^M_%N%N^,xD8_E2t7p0D$Mwx_xt-qoy%Nt8X4",
+                  "gif": null,
+                  "averageHueLight": "#807080",
+                  "averageHueDark": "#665e66"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/yuusha-party-o-oidasareta-kiyou-binbou-hindi-2jt2YXDeyI1",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/16/5aa974c5d0a97a26c04b82767292949e.jpg",
+                "width": 1647,
+                "height": 1647,
+                "size": 1606194,
+                "format": "jpg",
+                "thumbnail": "eD9t[NugGYyqF=Y3t+ofRkRk4UZ$#Sm-w1Q.MxV[sA%1M|X8g3NZ%L",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#3a5648",
+                "averageHueDark": "#3e564a"
+              },
+              "content": "My Hero Academia S8[Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=2456052179283624072&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "2456052179283624072",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "2456052179283624072",
+                "title": "My Hero Academia [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/09/04/1b97828fc8be7ef15da68ace2bd775ca.jpg",
+                  "width": 424,
+                  "height": 600,
+                  "size": 85795,
+                  "format": "jpg",
+                  "thumbnail": "eOH1^;nP^ct7s8?Es9ogn+IY~0s:%2jFfn?Woft6WTR:%JocRoj=N1",
+                  "gif": null,
+                  "averageHueLight": "#81744d",
+                  "averageHueDark": "#665d41"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/my-hero-academia-hindi-Y0h5pVbKqV2",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/01/30/6fd282515947daa211e855bb6f18afcb.jpg",
+                "width": 2000,
+                "height": 2000,
+                "size": 2886379,
+                "format": "jpg",
+                "thumbnail": "eTEW5:jW-.%Lxutp%2jWs,j^N3o#n}ofWFRQtR%LWBWCxat7ozadof",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#697494",
+                "averageHueDark": "#4c5366"
+              },
+              "content": "Jujutsu Kaisen S3 [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=102175217904222864&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "102175217904222864",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "102175217904222864",
+                "title": "Jujutsu Kaisen [Hindi]",
+                "releaseDate": "2020",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/a33c19b3c795aca495fc9cc25cd10c9a.jpg",
+                  "width": 2000,
+                  "height": 3000,
+                  "size": 983951,
+                  "format": "jpg",
+                  "thumbnail": "eJDSLKDgI:x]IA+sp09txuWV-WITOEtRe-x^nOR%bIRjVXtRaeS1X9",
+                  "gif": null,
+                  "averageHueLight": "#634a55",
+                  "averageHueDark": "#634a55"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/jujutsu-kaisen-hindi-Gjrqz0KXx7",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/12/30/cb1617a47423ad8331c5ededc0e2d047.png",
+                "width": 3840,
+                "height": 2160,
+                "size": 366704,
+                "format": "webp",
+                "thumbnail": "eSHe:,p001sjI^9Grq%MtRR5R:aeawbcMw%2t6bDRjtQM_n$ogjbxu",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#849186",
+                "averageHueDark": "#616661"
+              },
+              "content": "Naruto: Shippuden [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=4681337201345660416&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "4681337201345660416",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "4681337201345660416",
+                "title": "Naruto: Shippuden [Hindi]",
+                "releaseDate": "2017",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/dc8ca89b3dfef3c3a0eb4ffc563fc226.jpg",
+                  "width": 1000,
+                  "height": 1426,
+                  "size": 219329,
+                  "format": "jpg",
+                  "thumbnail": "eLG[m4tjcE-BERcuMxS#ozS6Awtl$fM|WYNMbxn%rrb0rrTLWXX5WD",
+                  "gif": null,
+                  "averageHueLight": "#867e73",
+                  "averageHueDark": "#666058"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/naruto-shippuden-hindi-C3uFBDAzOz5",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/12/26/6f49c92bbc802d7bc0d8d02515f1b931.jpg",
+                "width": 1080,
+                "height": 1080,
+                "size": 1646395,
+                "format": "jpg",
+                "thumbnail": "e9Ef1m=xMI?Zog?^9vM^RNt8.SI:E1ITEL?cnhRhV??GtSs8RPIpt7",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#71655d",
+                "averageHueDark": "#665d58"
+              },
+              "content": "Fairy Tail [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=1646050235208072560&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "1646050235208072560",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "1646050235208072560",
+                "title": "Fairy Tail [Hindi]",
+                "releaseDate": "2011",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2022/09/07/52f405c4e570619b4535b5f805987878.jpg",
+                  "width": 700,
+                  "height": 1000,
+                  "size": 163621,
+                  "format": "jpg",
+                  "thumbnail": "eNKJosoba3ofVg}ZVXwIjE+b[9#ToyslnOD+Ira~s,XBa%WTWEShOX",
+                  "gif": null,
+                  "averageHueLight": "#997478",
+                  "averageHueDark": "#665153"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/fairy-tail-hindi-samkTsvVAX1",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/01/19/2095ab08c5b90cd9cecbd738b602bd84.jpg",
+                "width": 1560,
+                "height": 1560,
+                "size": 285903,
+                "format": "jpg",
+                "thumbnail": "eQGSM*0f%f?FM{4.-mIVM{oeE0%Ls:f,ogt7N0RQa$WGxtWYRkWAoc",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#798488",
+                "averageHueDark": "#5f6466"
+              },
+              "content": "The Daily Life of the Immortal King [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=4334779176449361640&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "4334779176449361640",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "4334779176449361640",
+                "title": "The Daily Life of the Immortal King [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Animation,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/08/28/f1f71825759d8e3604a3501193c1b73b.jpg",
+                  "width": 600,
+                  "height": 800,
+                  "size": 122123,
+                  "format": "jpg",
+                  "thumbnail": "eOF62.~qD%D%WW%MkCaxoIs-M_M{RjkCozt6WBRPRPaeRjM_M{t7az",
+                  "gif": null,
+                  "averageHueLight": "#6e6b76",
+                  "averageHueDark": "#626066"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/the-daily-life-of-the-immortal-king-hindi-YAvBygKkda5",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/01/19/1c4e85baa17ff23117bc88a7d3c5b9cb.jpg",
+                "width": 1500,
+                "height": 1500,
+                "size": 257486,
+                "format": "jpg",
+                "thumbnail": "eCCj62tQNx+u-o~Cs:M{xFsl4Ta0%LbvM{9Zs.x[%3RPrWNaMy$*oz",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#56625f",
+                "averageHueDark": "#5a6260"
+              },
+              "content": "Tokyo Ghoul [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=2405400104711734200&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "2405400104711734200",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "2405400104711734200",
+                "title": "Tokyo Ghoul [Hindi]",
+                "releaseDate": "2014",
+                "genre": "Anime,Action,Drama",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2025/11/03/52e7c002d95f4331c3a06dcc4d31734d.jpg",
+                  "width": 1129,
+                  "height": 1600,
+                  "size": 330557,
+                  "format": "jpg",
+                  "thumbnail": "eBBN7wX8OEnhx[=|s8WBrri_bJtlV@X8W;IAMx%MoMM{0Lxax]o#M{",
+                  "gif": null,
+                  "averageHueLight": "#4c5759",
+                  "averageHueDark": "#505859"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/tokyo-ghoul-hindi-OlanoKZKGR2",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/11/28/786dce86675e700c49bb9bc59fc3354d-s.jpg",
+                "width": 1687,
+                "height": 949,
+                "size": 183992,
+                "format": "jpg",
+                "thumbnail": "eGC7Tw0:Eo^k4UcE.8kDIpR5Iq%MxtD*n$-pS4RkxDI:tQe:W;oyWB",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#4f697a",
+                "averageHueDark": "#465966"
+              },
+              "content": "Attack on Titan [Hindi]",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=56988683026712168&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "56988683026712168",
+              "hasResource": true,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "56988683026712168",
+                "title": "Attack on Titan [Hindi]",
+                "releaseDate": "2013",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/e214b039c7e9e29d9ed6283508b404d0.jpg",
+                  "width": 889,
+                  "height": 1200,
+                  "size": 122424,
+                  "format": "jpg",
+                  "thumbnail": "ePGs#:$jIVW.IrD-s:JmNHf~10oe%JjZww%JNbwKxZIrIqR+RnxF%J",
+                  "gif": null,
+                  "averageHueLight": "#824326",
+                  "averageHueDark": "#663722"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/attack-on-titan-hindi-kGWQOIx0d4",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            }
+          ],
+          "style": "TRANSLUCEN"
+        },
+        "icons": [],
+        "rankings": [],
+        "opId": "7573032428546441224",
+        "deepLink": "",
+        "filters": [],
+        "customData": null,
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1773912937",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "FILTER",
+        "position": 2,
+        "title": "Categories",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "2871509429592148096",
+        "deepLink": "",
+        "filters": [
+          {
+            "title": "Anime",
+            "deepLink": "oneroom://com.community.oneroom?type=/home/movieFilter&tabId=8&filterType={\"country\":\"Japan\",\"sort\":\"ForYou\",\"year\":\"All\"}",
+            "image": {
+              "url": "https://pbcdn.aoneroom.com/image/2025/04/02/863ac35ec92e05afa30ca85c3e2c7d45.jpg",
+              "width": 512,
+              "height": 276,
+              "size": 28927,
+              "format": "jpg",
+              "thumbnail": "e6F;+XIT9at7a^=@Nd$%I@niEL%2NGW=xY~AM|fkn+W.xYR+s.WVfi",
+              "gif": {
+                "videoUrl": "",
+                "firstFrameUrl": ""
+              },
+              "averageHueLight": "#886642",
+              "averageHueDark": "#664e36"
+            },
+            "isAll": false
+          },
+          {
+            "title": "US Animation",
+            "deepLink": "oneroom://com.community.oneroom?type=/home/movieFilter&tabId=8&filterType={\"country\":\"United States\",\"sort\":\"ForYou\",\"year\":\"All\"}",
+            "image": {
+              "url": "https://pbcdn.aoneroom.com/image/2025/04/02/928ec4c626590934a3030de0fb01d965.jpg",
+              "width": 512,
+              "height": 276,
+              "size": 47664,
+              "format": "jpg",
+              "thumbnail": "e78#l=4Uxux[MytkniV[t7RjXRn$jIWEoJbXo|V[a#j@o|aeafofWB",
+              "gif": {
+                "videoUrl": "",
+                "firstFrameUrl": ""
+              },
+              "averageHueLight": "#455d43",
+              "averageHueDark": "#495d46"
+            },
+            "isAll": false
+          }
+        ],
+        "customData": null,
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1767925998",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 10,
+        "title": "Classic\ud83c\udf1fAnime Series",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "3450012766872946608",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 4,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/10/40f8faa3c2963861fd8735a5275483e4.png",
+                "width": 512,
+                "height": 654,
+                "size": 110042,
+                "format": "png",
+                "thumbnail": "eKE_Hy?HJ-R-NGpc%MozS4sA0fj]s:baoyVsWVs,s.bHxtbHn%oJf7",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#734740",
+                "averageHueDark": "#66423d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8902119364951003224&showType=0",
+              "opItemId": "0",
+              "subjectId": "8902119364951003224",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/10/db810054d3958bf5071339a008be9ff9.png",
+                "width": 512,
+                "height": 654,
+                "size": 71298,
+                "format": "png",
+                "thumbnail": "eXLf5H-oM{=xRk5Q%0g3xFbb^PsloIs.RjVrRkofs:ae0gRkj[W;ay",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#996946",
+                "averageHueDark": "#664833"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5769021399184590072&showType=0",
+              "opItemId": "0",
+              "subjectId": "5769021399184590072",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/10/8023a432a241de7a30e239c287af6954.png",
+                "width": 512,
+                "height": 654,
+                "size": 78190,
+                "format": "png",
+                "thumbnail": "eGF|u+-CU^Q-?by?-VH=R5%g-T-o4.n#ofFtofIoNasBFLIpozI;oM",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#793c41",
+                "averageHueDark": "#66363b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5975383290583339304&showType=0",
+              "opItemId": "0",
+              "subjectId": "5975383290583339304",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/908e9d3cfe2470d1c1ff119e450aa271.png",
+                "width": 315,
+                "height": 402,
+                "size": 42230,
+                "format": "png",
+                "thumbnail": "eNK9oH-ADk-TXlXNxDMyr?o#0N-Ut6IpxFWsxWofR-$fI:R+njoMxF",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#996b3b",
+                "averageHueDark": "#66492b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1032317814155232680&showType=0",
+              "opItemId": "0",
+              "subjectId": "1032317814155232680",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/f056e5e8f61d2acb2f033e49a9e06db5.png",
+                "width": 512,
+                "height": 654,
+                "size": 630296,
+                "format": "png",
+                "thumbnail": "eFBXczX7AJt--;M@t,pJkrkV4UyD-ladIUoZRPa0ngRPMeVsR%jFo2",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#4e6b83",
+                "averageHueDark": "#415566"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=56988683026712168&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "56988683026712168",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "56988683026712168",
+                "title": "Attack on Titan [Hindi]",
+                "releaseDate": "2013",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/e214b039c7e9e29d9ed6283508b404d0.jpg",
+                  "width": 889,
+                  "height": 1200,
+                  "size": 122424,
+                  "format": "jpg",
+                  "thumbnail": "ePGs#:$jIVW.IrD-s:JmNHf~10oe%JjZww%JNbwKxZIrIqR+RnxF%J",
+                  "gif": null,
+                  "averageHueLight": "#824326",
+                  "averageHueDark": "#663722"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/attack-on-titan-hindi-kGWQOIx0d4",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/09/25/8a78fda6f90c1d65aef6134ceadcaa8f.png",
+                "width": 315,
+                "height": 402,
+                "size": 39399,
+                "format": "png",
+                "thumbnail": "eKCsdR%30KE1o}4oni-;bvMy9FR*xaxas:x]S2Mxw{xuIUaxoza{so",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#51554d",
+                "averageHueDark": "#525551"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8899761578229355552&showType=0",
+              "opItemId": "0",
+              "subjectId": "8899761578229355552",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/33ea08994f3e75d874ab9c8ab3b0c098.png",
+                "width": 315,
+                "height": 402,
+                "size": 41843,
+                "format": "png",
+                "thumbnail": "eKCPJHjE%5%4xaEGe-njWAoKD%xvM^V?ayo|t8ozohR*InRPogWBoM",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#59426a",
+                "averageHueDark": "#574466"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=2316544915590759384&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "2316544915590759384",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "2316544915590759384",
+                "title": "Black Clover [Hindi]",
+                "releaseDate": "2017",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/386a86ed69fea9bcb84146ae4ef90c98.jpg",
+                  "width": 640,
+                  "height": 960,
+                  "size": 146997,
+                  "format": "jpg",
+                  "thumbnail": "eKGbS3?bIos+t6?wo#M{M|oM_2xtRiWBRkx^ayM{WCt7n-M{IVWVof",
+                  "gif": null,
+                  "averageHueLight": "#857861",
+                  "averageHueDark": "#665d4e"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/black-clover-hindi-KLstyjCN7L2",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/6bc7aae32c93e3c0633e54dbf7e37b8b.png",
+                "width": 315,
+                "height": 402,
+                "size": 42429,
+                "format": "png",
+                "thumbnail": "eGCk6m.8Ppn}MxD*yXxZRjRO4TbvVXRQRjv|QmIqRiRQ58R5#,XSs,",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#50756c",
+                "averageHueDark": "#4a665f"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3257281572663347376&showType=0",
+              "opItemId": "0",
+              "subjectId": "3257281572663347376",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/ac913ab2a28d732b407eef1a4841c329.png",
+                "width": 315,
+                "height": 402,
+                "size": 37583,
+                "format": "png",
+                "thumbnail": "eOGlS0pI1G%gk;+HtRELWBxuE2t7wys;rYEfs:%2oMr?4UjGofRixu",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#718075",
+                "averageHueDark": "#5e6660"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=961998567864943424&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "961998567864943424",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "961998567864943424",
+                "title": "SPY x FAMILY [Hindi]",
+                "releaseDate": "2022",
+                "genre": "Anime",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/05/01/04be74c17599c68d7484a198852305df.jpg",
+                  "width": 440,
+                  "height": 660,
+                  "size": 44825,
+                  "format": "jpg",
+                  "thumbnail": "eYG9N.XSNGxFs-~pXSSMnOoLOFR-ozRjWBSix]t7Rjay-;t7jcWBWB",
+                  "gif": null,
+                  "averageHueLight": "#748193",
+                  "averageHueDark": "#505a66"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/spy-x-family-hindi-6hpd2gKX391",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/a80c930ff10aafeeaa7345c15b6aa728.png",
+                "width": 315,
+                "height": 402,
+                "size": 46494,
+                "format": "png",
+                "thumbnail": "eMCH+*x]Nxxvs*+ExuRjs:WB9Ft7wHR+R+4TWYx[RkbcM_RkkXfht6",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#4f7f93",
+                "averageHueDark": "#3a5966"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=368113073112187200&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "368113073112187200",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "368113073112187200",
+                "title": "That Time I Got Reincarnated as a Slime [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/09/04/32531b46f358706e1d860548fe304f01.jpg",
+                  "width": 640,
+                  "height": 960,
+                  "size": 153695,
+                  "format": "jpg",
+                  "thumbnail": "efFsMytRxCkDRkyZo3j=bJWrObjvozR.RkR.kWW=NHbGa$WES5a$f8",
+                  "gif": null,
+                  "averageHueLight": "#708099",
+                  "averageHueDark": "#4b5566"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/that-time-i-got-reincarnated-as-a-slime-hindi-2Rs9a5DXbr",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/83a89ee1d74855839c74fd7fddb15063.png",
+                "width": 512,
+                "height": 654,
+                "size": 527770,
+                "format": "png",
+                "thumbnail": "eKI#=l_4%$yCtl0J%#oHaenjROxvIARiWBD%kWXSRixu9ESdxuVsjF",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7e8199",
+                "averageHueDark": "#585966"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=2288089881081512944&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "2288089881081512944",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "2288089881081512944",
+                "title": "Re: Zero, Starting Life in Another World [Hindi]",
+                "releaseDate": "2016",
+                "genre": "Anime,Adventure,Drama",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2023/08/12/a0feec3da463b7433f6e63a6c6ce1135.jpg",
+                  "width": 640,
+                  "height": 960,
+                  "size": 155321,
+                  "format": "jpg",
+                  "thumbnail": "eKJZia~X+#aLIA.9x^bbNHRirCJiroR%a$t7t4nNNFX9M_ofShoy%L",
+                  "gif": null,
+                  "averageHueLight": "#99667e",
+                  "averageHueDark": "#664454"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/re-zero-starting-life-in-another-world-hindi-Uss2vtvt1J2",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/d6e5a05fcca40500a898507c33b4ef45.png",
+                "width": 512,
+                "height": 654,
+                "size": 431519,
+                "format": "png",
+                "thumbnail": "eNF6U:xux^t8bJ4TWCkEWYWA?AbcacxuRi9Gt7%0xXxuRjxutRjEo#",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#67738a",
+                "averageHueDark": "#505766"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=2743849912105349712&showType=0",
+              "opItemId": "0",
+              "subjectId": "2743849912105349712",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/d06d40b91c0f80cde40dd101c3376f02.png",
+                "width": 315,
+                "height": 402,
+                "size": 45145,
+                "format": "png",
+                "thumbnail": "eQEfTcT3KkxFsl1OkrS$agr?D5$|$NShNu-US5xDbuNdJ4RjS1s:sp",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#5c6b5e",
+                "averageHueDark": "#5c665d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=4839014246874759184&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "4839014246874759184",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "4839014246874759184",
+                "title": "Hunter x Hunter [Hindi]",
+                "releaseDate": "2016",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/90b2aaf54c0108a8bfcbf02434e0a834.jpg",
+                  "width": 1000,
+                  "height": 1426,
+                  "size": 196114,
+                  "format": "jpg",
+                  "thumbnail": "eBGa,;-BICE84,pGwbxYR+xH:gn#S_j=x_^lXAE2g4kUEzE3w}-os%",
+                  "gif": null,
+                  "averageHueLight": "#836863",
+                  "averageHueDark": "#66514d"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/hunter-x-hunter-hindi-2X9mLrFJsL5",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/d570c72e21d2a9654b23b1ca9e159ac3.png",
+                "width": 512,
+                "height": 654,
+                "size": 627297,
+                "format": "png",
+                "thumbnail": "eKH1#??uY7nTS5B?%4t6o}ad00T0eSjcV@I:f,WARioLiaVYRjbatQ",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#84696c",
+                "averageHueDark": "#665557"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=7832073066103878224&showType=0",
+              "opItemId": "0",
+              "subjectId": "7832073066103878224",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/38f42e4023f659a42ceca90f5df8b115.png",
+                "width": 315,
+                "height": 402,
+                "size": 59142,
+                "format": "png",
+                "thumbnail": "eDKlW]-W=:-NO:0|$z-5ng$*0l^IoaNaxWo$-ntOX7oI0_S#NLt5r^",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#996434",
+                "averageHueDark": "#664527"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1498863412686864576&showType=0",
+              "opItemId": "0",
+              "subjectId": "1498863412686864576",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/81cb80e9f60e98c55f4c10febe9d58d7.png",
+                "width": 315,
+                "height": 402,
+                "size": 45272,
+                "format": "png",
+                "thumbnail": "eFC~^]vhxb%3I^]fI^xZxaNfDjPCxaoMNKJjxtoiR:NH0qrqOGIqxB",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#595d55",
+                "averageHueDark": "#5b5d59"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1589849374274864552&showType=0",
+              "opItemId": "0",
+              "subjectId": "1589849374274864552",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/12/735a5479b33fb7077ef9324dbca2d2b6.png",
+                "width": 512,
+                "height": 654,
+                "size": 116389,
+                "format": "png",
+                "thumbnail": "eTO3th-;%g-;xu0K%NtQs:s:4n%MWAaxWBIBn%nlV[t7EMRkjsbHt7",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#998c86",
+                "averageHueDark": "#66605d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=3860885550299234848&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "3860885550299234848",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "3860885550299234848",
+                "title": "Rent-a-Girlfriend [Hindi]",
+                "releaseDate": "2020",
+                "genre": "Anime,Comedy,Romance",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2023/08/10/2cb6b6e0a6597bc2e7922d21ce06b331.jpg",
+                  "width": 640,
+                  "height": 960,
+                  "size": 125162,
+                  "format": "jpg",
+                  "thumbnail": "eGB;64o#01xvM{MpWERpWBoN9hRi%OkDoM%PoGo#s:bGDiRhozV?of",
+                  "gif": null,
+                  "averageHueLight": "#4d5d83",
+                  "averageHueDark": "#3c4866"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/rent-a-girlfriend-hindi-Oh8o7eBTcB4",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/4d44353c97ada9e30d62cea7a253b92a.png",
+                "width": 512,
+                "height": 654,
+                "size": 491835,
+                "format": "png",
+                "thumbnail": "eECYwk~DnN9F9G9r%3xujFNGmiM_sr%N%MEMM{NFoe%MIURkf#oIj@",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#574262",
+                "averageHueDark": "#594662"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=5940673723370990096&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "5940673723370990096",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "5940673723370990096",
+                "title": "Solo Leveling [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/05/22/9307e8906677e3890d81b06c68603455.jpg",
+                  "width": 6084,
+                  "height": 8599,
+                  "size": 2722429,
+                  "format": "jpg",
+                  "thumbnail": "eTAKjwDinNaJtR.TIUs+V?ozx^M{s+R*j[-=IonNkCay%2RlaJt7ae",
+                  "gif": null,
+                  "averageHueLight": "#41505d",
+                  "averageHueDark": "#41505d"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/solo-leveling-hindi-233zYjClQ47",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/170f6acd45aa3c8b3f6a3b256aa1d734.png",
+                "width": 512,
+                "height": 654,
+                "size": 424228,
+                "format": "png",
+                "thumbnail": "eKG9EW~q9ZM{xaVY%M%M%Mxu9aR*%M%NM{I;ozV[IUWB4oM|xuWBxu",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#717b71",
+                "averageHueDark": "#616661"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=7955832912199779808&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "7955832912199779808",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "7955832912199779808",
+                "title": "Wind Breaker [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/06/30/d3d21ce491fdd01422b38647f83aa002.jpg",
+                  "width": 2064,
+                  "height": 2915,
+                  "size": 501224,
+                  "format": "jpg",
+                  "thumbnail": "eEB4BnIB4.?aMx00s;s;V@xupIRktPa{M|RRjYjaWZn%IUx[s:Rjxt",
+                  "gif": null,
+                  "averageHueLight": "#485849",
+                  "averageHueDark": "#485849"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/wind-breaker-hindi-OvvUbUxNHt9",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/93644f8de4845619a65d0575486c340a.png",
+                "width": 315,
+                "height": 402,
+                "size": 46216,
+                "format": "png",
+                "thumbnail": "eKI;z=n}%K-:-mJF?Et5XAob00_0xWaeWAD*o#xts8s:oeNIs;s+NL",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#91835b",
+                "averageHueDark": "#665d44"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=1046337672425472216&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "1046337672425472216",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "1046337672425472216",
+                "title": "Mushoku Tensei: Jobless Reincarnation [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/06/30/73d33364e4058acfbb4efab77bfa5012.jpg",
+                  "width": 2000,
+                  "height": 3000,
+                  "size": 812106,
+                  "format": "jpg",
+                  "thumbnail": "eIFiD9=RyERS={*H5?XUWYxtxUs+Mz%1t6$dwHMyodofxXbXM|S2xt",
+                  "gif": null,
+                  "averageHueLight": "#79765c",
+                  "averageHueDark": "#66634d"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/mushoku-tensei-jobless-reincarnation-hindi-86xBouJeif1",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/fc7f7f71db4ca05dd52ce10b3f1912b6.png",
+                "width": 315,
+                "height": 402,
+                "size": 48111,
+                "format": "png",
+                "thumbnail": "eKE-toXoN#adR*0vrZrYR%ob9?ohR$xaoI=?SzNdoNSi4?Vq$%Syt7",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#684774",
+                "averageHueDark": "#5d4266"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=8282836313385190960&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "8282836313385190960",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "8282836313385190960",
+                "title": "JoJo's Bizarre Adventure [Hindi]",
+                "releaseDate": "2012",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2023/04/28/779044d6355447a96100ed66b8270a79.jpg",
+                  "width": 750,
+                  "height": 1071,
+                  "size": 157673,
+                  "format": "jpg",
+                  "thumbnail": "e5CPnr?bAU-.H?u3jX;+NFEy^ktP56Vs=}E{M_~Bo#SixGWAo{IB%2",
+                  "gif": null,
+                  "averageHueLight": "#60554f",
+                  "averageHueDark": "#60554f"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/jojos-bizarre-adventure-hindi-IILS1aEtRR9",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/08/269abe13e9e6eac303023236b3eebcf1.png",
+                "width": 512,
+                "height": 654,
+                "size": 497490,
+                "format": "png",
+                "thumbnail": "ePK+Ap^jnS,[sW1$xubbofoK5RS4X7R%axM_Rja{aKjF9aaLoeSgs:",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#995643",
+                "averageHueDark": "#663c30"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=2000673396937426528&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "2000673396937426528",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "2000673396937426528",
+                "title": "Fire Force [Hindi]",
+                "releaseDate": "2019",
+                "genre": "Anime,Action,Drama",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/04/15/d6dc48772ff4e1840d6f839bedb96da3.jpg",
+                  "width": 1091,
+                  "height": 1536,
+                  "size": 341840,
+                  "format": "jpg",
+                  "thumbnail": "eHHUte%f^,t8~CmkE14TRPM_oONHxZ%LRjQ-RQOYs.xbaKRi%Lozsp",
+                  "gif": null,
+                  "averageHueLight": "#88766d",
+                  "averageHueDark": "#665852"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/fire-force-hindi-AkXfR5x6Nn2",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/4149ed19220c7c396bf936c2e52d2ab0.png",
+                "width": 315,
+                "height": 402,
+                "size": 53166,
+                "format": "png",
+                "thumbnail": "eGEU_W~8E2ogbv~3=]RQf+nkr=xC%1aeR*E7V]%0V@bE0gNKw]n~s.",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#6c553f",
+                "averageHueDark": "#665340"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=4498544243631343208&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "4498544243631343208",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "4498544243631343208",
+                "title": "Bleach: Thousand-Year Blood War [Hindi]",
+                "releaseDate": "2024",
+                "genre": "Anime,Action,Adventure",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2024/12/13/bc6e5d3edfdea48032113d1a1155ae81.jpg",
+                  "width": 1200,
+                  "height": 1696,
+                  "size": 225724,
+                  "format": "jpg",
+                  "thumbnail": "eBCr7,5Q:+w^#m4n-Bxu-BsA}[5l+^n+f6RjXSV@J8xGD%Naxujsf+",
+                  "gif": null,
+                  "averageHueLight": "#5b3133",
+                  "averageHueDark": "#5b3436"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/bleach-thousand-year-blood-war-hindi-kKyNT6Anjm5",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/84953be357f8ecd78bfdc5fee82baf0d.png",
+                "width": 315,
+                "height": 402,
+                "size": 39901,
+                "format": "png",
+                "thumbnail": "eJB:jx%3ieoNs+RKs.S~bbs;M+WXs:jZR+I-oNsln~Na9tj]j=oesA",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#545273",
+                "averageHueDark": "#4e4d66"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1820448573578707928&showType=0",
+              "opItemId": "0",
+              "subjectId": "1820448573578707928",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/03048ab398b45cf01f7c4c2edc033257.png",
+                "width": 315,
+                "height": 402,
+                "size": 45357,
+                "format": "png",
+                "thumbnail": "eLGahA-;-V%2-:.7%MODxs%L0yxuJ6t6WAnNxZ$%X7V@ELn$xZX7xa",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7a5757",
+                "averageHueDark": "#664c4c"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/movie/detail&id=412933790055761808&subject_type=2",
+              "opItemId": "0",
+              "subjectId": "412933790055761808",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": {
+                "subjectId": "412933790055761808",
+                "title": "Kaguya-sama: Love is War [Hindi]",
+                "releaseDate": "2019",
+                "genre": "Anime,Comedy,Romance",
+                "cover": {
+                  "url": "https://pbcdn.aoneroom.com/image/2023/08/13/2e2c8b0752f4d78075f784e0153c1941.jpg",
+                  "width": 1818,
+                  "height": 2560,
+                  "size": 429821,
+                  "format": "jpg",
+                  "thumbnail": "eXI53?xu%gR+xu_Nt7X9R+R*%#s:OFWXtR.8t7ogogofI:RjIobHIU",
+                  "gif": null,
+                  "averageHueLight": "#877679",
+                  "averageHueDark": "#66595b"
+                },
+                "subjectType": 2,
+                "detailUrl": "https://moviebox.ph/detail/kaguya-sama-love-is-war-hindi-ISEigWWevu",
+                "playUrl": {
+                  "playUrl": "",
+                  "urlType": "PLAY_URL_WEB"
+                },
+                "restrictKid": 0
+              }
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/7fca1ffb52efffb1c165ff586d42e215.png",
+                "width": 315,
+                "height": 402,
+                "size": 29810,
+                "format": "png",
+                "thumbnail": "eIBDHNt80:Nfj]Z}j]WDoeWC0KR*=?xYR-NGoIs:R,s:tTj[M}WCxC",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#454b58",
+                "averageHueDark": "#494d58"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5247124940054315456&showType=0",
+              "opItemId": "0",
+              "subjectId": "5247124940054315456",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/26/788f89a8e2eb2ce256c14c6ff9afb1b6.png",
+                "width": 512,
+                "height": 654,
+                "size": 72299,
+                "format": "png",
+                "thumbnail": "eUN]+y.2t[-+ob4h${o?t5kA5Xt6Q?s+kBKcovi#oes:NFs*o{WYn,",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#998220",
+                "averageHueDark": "#665719"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1909355212649693200&showType=0",
+              "opItemId": "0",
+              "subjectId": "1909355212649693200",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/4b94e162da72bc3fe79fff89634d5151.png",
+                "width": 315,
+                "height": 402,
+                "size": 38475,
+                "format": "png",
+                "thumbnail": "eGD1He%$9|o#ae-LtlNGbHoa4nS%,,oJof4TR+-pofozH;aK%ga#NJ",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#577a93",
+                "averageHueDark": "#405666"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5324741664882279848&showType=0",
+              "opItemId": "0",
+              "subjectId": "5324741664882279848",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/03/47a600bc258f0e42a524d3bceef59167.png",
+                "width": 315,
+                "height": 402,
+                "size": 34904,
+                "format": "png",
+                "thumbnail": "eHFs#t.92zlUOZiGtnNhxtjE4oOt;w-6Wa8xM|%0$eS6I{M}S1ngRP",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#6e9082",
+                "averageHueDark": "#52665e"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=24990065885693024&showType=0",
+              "opItemId": "0",
+              "subjectId": "24990065885693024",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1773108576",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 10,
+        "title": "Trending In Your Language\ud83d\udd25",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "7470001954342028968",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 4,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/06/5765a2e68aaf7d1f1461f2ba77bc76bc.jpg",
+                "width": 512,
+                "height": 719,
+                "size": 152001,
+                "format": "jpg",
+                "thumbnail": "eEGG6Dt7iI,ow|}AxX-BxGRlMfw]xaX9SNrxNKNbbHxXRQIrJ-R+$%",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#85302b",
+                "averageHueDark": "#662925"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=984370096342715304&showType=0",
+              "opItemId": "0",
+              "subjectId": "984370096342715304",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/06/073d64a640227af3cecb3551ecd9a5c6.jpg",
+                "width": 512,
+                "height": 719,
+                "size": 72119,
+                "format": "jpg",
+                "thumbnail": "eB8FJit60{S1%1kokBS}bHxtFEWoxHoybIKNba-VoKIoE1ay$*e.NZ",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#2e5f4a",
+                "averageHueDark": "#325f4b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6815616820113196112&showType=0",
+              "opItemId": "0",
+              "subjectId": "6815616820113196112",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/06/e949fdea1918f972db37a453ff7be76a.jpg",
+                "width": 512,
+                "height": 719,
+                "size": 65182,
+                "format": "jpg",
+                "thumbnail": "eBBfez-;IeD*Ib-axtn:IWoN%7RkR$xuobRZRkt3xuk99GNH%Lxtog",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#574377",
+                "averageHueDark": "#4d3d66"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8328175384026139008&showType=0",
+              "opItemId": "0",
+              "subjectId": "8328175384026139008",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/06/b3172bdef84630c6e5f1e817b4096227.jpg",
+                "width": 512,
+                "height": 719,
+                "size": 75193,
+                "format": "jpg",
+                "thumbnail": "eCFhg}bI$v-S-l~LbG-mxWt6^bs.X8WVIq^ys.RnWqWVNGayaiWFxY",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7f6825",
+                "averageHueDark": "#665522"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=7822646325853799120&showType=0",
+              "opItemId": "0",
+              "subjectId": "7822646325853799120",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/06/34c3a3e356defe3660f15a31e9992dfa.jpg",
+                "width": 512,
+                "height": 719,
+                "size": 71948,
+                "format": "jpg",
+                "thumbnail": "eLI{vNxZVrr?=a};t5xFaen$]#oes;WVI=+[WCXSofofIqRkbaxaxY",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#995e28",
+                "averageHueDark": "#66411f"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=824263611152585432&showType=0",
+              "opItemId": "0",
+              "subjectId": "824263611152585432",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1754449800",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 12,
+        "title": "Anime Shorts",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "4238541963970204896",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 3,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/02/e25fef2684ba1c83e539dc50158024f5.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 610959,
+                "format": "png",
+                "thumbnail": "e49QK*xa9axuRj}[s:j]s:R*9bWD?GxaoL4:Rj%2Wpxa9Fo2NbNGs:",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#4b4044",
+                "averageHueDark": "#4b4346"
+              },
+              "content": "fantastic story \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=6952268325691212432",
+              "opItemId": "0",
+              "subjectId": "6952268325691212432",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/27/b22a4e2b81dbc465badb13d883450bb5.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 847811,
+                "format": "png",
+                "thumbnail": "eCFhP9?F9Y-;%Jc@s.n4o#X30LWU?bxbMeEM%1-:xaSe=|t7E1jFbu",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7d555a",
+                "averageHueDark": "#66494d"
+              },
+              "content": "Godannar",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=6007646258129683888",
+              "opItemId": "0",
+              "subjectId": "6007646258129683888",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/02/193cef15964f3f19f4c31d0d24121664.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 880318,
+                "format": "png",
+                "thumbnail": "eNLzT_~q9ZIARQ?a9FIoxtWV%MkCxuxut7t7xuWoM{aeIoRjIURjWV",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#998478",
+                "averageHueDark": "#665a54"
+              },
+              "content": "just wants to game\ud83d\ude2d",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=1416864730295207576",
+              "opItemId": "0",
+              "subjectId": "1416864730295207576",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/07/f05af2988801e9d79d85176a64bd6a4e.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 775079,
+                "format": "png",
+                "thumbnail": "edF~U3oLxuIUoe~qs:xuRjWBt7bI%Mt7V@Rjt7of%MWBbHt7WBt7ay",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#736c65",
+                "averageHueDark": "#66625e"
+              },
+              "content": "\ud83d\ude2dMost Useless Character",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=6164829141901755024",
+              "opItemId": "0",
+              "subjectId": "6164829141901755024",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/07/163b688be57a0e391ac526a3c4c5b449.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 924918,
+                "format": "png",
+                "thumbnail": "eLMO+]~V4nRP?a~qTdrXsmXmI;-:tlr?i_,oj[xuM|aJ9tR6n$W;Sg",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#996454",
+                "averageHueDark": "#66463c"
+              },
+              "content": "\ud83d\ude0e\ud83d\ude0d\ud83d\udd25Handsome Denji",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=4555483215095555240",
+              "opItemId": "0",
+              "subjectId": "4555483215095555240",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/07/48c902e3bf5fa82c89b8aa4386bc1408.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 973594,
+                "format": "png",
+                "thumbnail": "eRLzX40KIKt6Ri=}kAIWWYxsW8M}0LxZoz0LD*%1tQV[x=?HWVafV]",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#998581",
+                "averageHueDark": "#665c5a"
+              },
+              "content": "A romantic story you don't want to miss \ud83d\udc95\ud83e\udee6",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=4396723932297154160",
+              "opItemId": "0",
+              "subjectId": "4396723932297154160",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/27/99656a01adf90e9e3bd834c15ce698fd.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 582938,
+                "format": "png",
+                "thumbnail": "eCJ*0E-n~m~S-,DiV?%Ij:ofo~xu%1NLD,^$oat5M{oL9FRkozt7WB",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#998572",
+                "averageHueDark": "#665b50"
+              },
+              "content": "yoruichi so beautiful and hot\ud83e\udd75\u2665\ufe0f",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=1741889739084514080",
+              "opItemId": "0",
+              "subjectId": "1741889739084514080",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/20/4501edcac0cbc8882360e60241627baa.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 887910,
+                "format": "png",
+                "thumbnail": "eI9@xMIWWGtSIr?1k6NFjYInbVadxbbIWAoYNI%NjdoLi}WTWFt7ae",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#405566",
+                "averageHueDark": "#455766"
+              },
+              "content": "Perfect Back View!",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=459249265676901152",
+              "opItemId": "0",
+              "subjectId": "459249265676901152",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/04/02/ffd73b9be1c1388d71e5d784cedb5790.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 501829,
+                "format": "png",
+                "thumbnail": "eNA]{ZoL0KS4-;M{aytRj[Rjxtj[M{WB%2D*a#%MjsV[xajZRkf+jr",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#453c48",
+                "averageHueDark": "#453f48"
+              },
+              "content": "Bad Position\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=5323731617423281200",
+              "opItemId": "0",
+              "subjectId": "5323731617423281200",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/27/b793b1481370e23bbe973af189a9add6.png",
+                "width": 1000,
+                "height": 1500,
+                "size": 1322259,
+                "format": "png",
+                "thumbnail": "eMEfyWyEi~R4t1t*s;WBxbJ78^8{xaxvNLNZogRkWAnjRVkBj?bFsC",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#667767",
+                "averageHueDark": "#5b665c"
+              },
+              "content": "what happened\uff1f",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=7008303050310174128",
+              "opItemId": "0",
+              "subjectId": "7008303050310174128",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/13/c6a61b7bafaac0d2395bec0e0d7fcbe4.png",
+                "width": 1018,
+                "height": 1366,
+                "size": 922239,
+                "format": "png",
+                "thumbnail": "e8Ac#y0L0MRkxs$*t7I:adaz9Z%MD*%L%LEQoL%2WWWVI;WA%0f+Rj",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#474152",
+                "averageHueDark": "#4a4552"
+              },
+              "content": " She's an Angel Next Door but her soul is wide\ud83d\ude18\ud83e\udee6",
+              "deepLink": "oneroom://com.community.oneroom?type=/post/detailVideo&page_from=Trending&id=121711964887436336",
+              "opItemId": "0",
+              "subjectId": "121711964887436336",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1775543891",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 75,
+        "title": "Seasonal Anime\u2728",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "1340404872088373064",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 2,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/10/2e51074bb24ac9bf84d4475db5c655f7.png",
+                "width": 512,
+                "height": 291,
+                "size": 65756,
+                "format": "png",
+                "thumbnail": "e8C$$QvyNaE24nIT~WniDiNH9Y?as:WYbws9%1ozS$R+NabHs:jFIo",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#61544f",
+                "averageHueDark": "#615753"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6412434094562886584&showType=0",
+              "opItemId": "0",
+              "subjectId": "6412434094562886584",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/01/13/9d40ee17a8554defab6003575709c566.png",
+                "width": 512,
+                "height": 291,
+                "size": 54493,
+                "format": "png",
+                "thumbnail": "e9DI?:%2Mw={02E2_2bbIVV[9G%Lxb9at7Ri$%xHE1IoV@t7t8jZIU",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#62554e",
+                "averageHueDark": "#625852"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=4928406452936625240&showType=0",
+              "opItemId": "0",
+              "subjectId": "4928406452936625240",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/10/21/cfef0b882bf4bea92284cf38d3a796ed.png",
+                "width": 512,
+                "height": 291,
+                "size": 63474,
+                "format": "png",
+                "thumbnail": "e9E{e8?v0fIpR4E3?cDi8_Rj4-x]wvR5NF9YWAogMynh9Ga*-;V@Io",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#726b6e",
+                "averageHueDark": "#666465"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=4259413490689000536&showType=0",
+              "opItemId": "0",
+              "subjectId": "4259413490689000536",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/09/29/7a4f633c8b0c710dff148ad84a91d9bd.png",
+                "width": 512,
+                "height": 291,
+                "size": 61001,
+                "format": "png",
+                "thumbnail": "e9DvTD-n-3XUMcHs~VES9Z9wjD$*xVEMNaMwr@WFIVNHIB$~n,oIja",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#676251",
+                "averageHueDark": "#666255"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=592945614711848688&showType=0",
+              "opItemId": "0",
+              "subjectId": "592945614711848688",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/004d9d5b860b3dafea8049b625cfe50d.png",
+                "width": 902,
+                "height": 512,
+                "size": 153745,
+                "format": "png",
+                "thumbnail": "eSFYDpi^aIp0E00f%LWYRhs.nLR:bIaJt8nOxCn#NfNdS4X9W?s,ae",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#725f6b",
+                "averageHueDark": "#665961"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8203011232337740304&showType=0",
+              "opItemId": "0",
+              "subjectId": "8203011232337740304",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/35f2e0503034dcf7f65f66fed57620df.png",
+                "width": 648,
+                "height": 368,
+                "size": 75949,
+                "format": "png",
+                "thumbnail": "eCCP;i~E?I^,v}Md^,%MRPk8wbsmRiIUNuR%ozNFIUIoxu%MV@IUIU",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#525463",
+                "averageHueDark": "#565863"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3639468430044156104&showType=0",
+              "opItemId": "0",
+              "subjectId": "3639468430044156104",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/499568ec2b902547e04cf35926807cfe.png",
+                "width": 648,
+                "height": 368,
+                "size": 75505,
+                "format": "png",
+                "thumbnail": "eKFO}x~qo~M{E1DixsotI:W.IUnikDkDW=%NxvfmRkM|ICR*j?oxaw",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#736a64",
+                "averageHueDark": "#66605d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5205962437345923272&showType=0",
+              "opItemId": "0",
+              "subjectId": "5205962437345923272",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/3ba7c3a1e3e0217e74e064329edea334.png",
+                "width": 810,
+                "height": 460,
+                "size": 583467,
+                "format": "png",
+                "thumbnail": "eHHnEW+RI0^#MKDQ^SwfITba0P%2s*RjxpIINH$~S0bVeT%2tORPNZ",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#87666b",
+                "averageHueDark": "#665154"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=4379487584293208664&showType=0",
+              "opItemId": "0",
+              "subjectId": "4379487584293208664",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/0c3aaddaa9cedb33314d37d5464d4950.png",
+                "width": 810,
+                "height": 460,
+                "size": 620010,
+                "format": "png",
+                "thumbnail": "eDD]6q9OrqR:ACQms:X8E2OY0M=^WroxxG0gxaxGx@r=E3oyjus;nO",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#66574d",
+                "averageHueDark": "#665a52"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1079882876151384800&showType=0",
+              "opItemId": "0",
+              "subjectId": "1079882876151384800",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/c175d16ef4a6fd0544e71e97edcee52b.png",
+                "width": 810,
+                "height": 460,
+                "size": 507869,
+                "format": "png",
+                "thumbnail": "e9B42cE54n$KDN9#_NNG8^RONzx^xsDiV@t7tmX9IAR4-;%NIWM{IA",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#495057",
+                "averageHueDark": "#4d5157"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8838248027971274208&showType=0",
+              "opItemId": "0",
+              "subjectId": "8838248027971274208",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/11068d417c5e01917776b5cc5523cdf6.png",
+                "width": 810,
+                "height": 460,
+                "size": 569273,
+                "format": "png",
+                "thumbnail": "eGEz4T?@XNrX8{4o%hi_IAV?D%RoV]M|%3X2X2kWs?R.I9xtk9bvR*",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#6b7f75",
+                "averageHueDark": "#5a6660"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8549349148749874656&showType=0",
+              "opItemId": "0",
+              "subjectId": "8549349148749874656",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/0a749447b69cf942fdd0cea1ce7009c2.png",
+                "width": 810,
+                "height": 460,
+                "size": 600413,
+                "format": "png",
+                "thumbnail": "eCDI^5VsDORP9YMH-pXAE2NwRj-VbHIpNbJU%3nhITM{MyxZxubcM|",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#625358",
+                "averageHueDark": "#62575b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=7287390587845068616&showType=0",
+              "opItemId": "0",
+              "subjectId": "7287390587845068616",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/3b4767fbe7407b9cd0c9e5d311587eac.png",
+                "width": 810,
+                "height": 460,
+                "size": 581218,
+                "format": "png",
+                "thumbnail": "eHEC2tR5R-%KVZ4oo}NsNGfR0fxasnM|tRS#n+xGs.oeofbHahoMRj",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#6b564f",
+                "averageHueDark": "#665550"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8170307221042217608&showType=0",
+              "opItemId": "0",
+              "subjectId": "8170307221042217608",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/05/28/9b33553343bd953aa8c0ba13d14051b4.png",
+                "width": 810,
+                "height": 460,
+                "size": 590734,
+                "format": "png",
+                "thumbnail": "eEGuLF.9p^=xRj9G~qsBIUNFKO-;t8NGVsu4tRoeInM{EL%MaKNGIo",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#826a71",
+                "averageHueDark": "#66575b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=2832873159538496480&showType=0",
+              "opItemId": "0",
+              "subjectId": "2832873159538496480",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1773108754",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 95,
+        "title": "Classic Animation Series",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "5354195622885314064",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 4,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2026/03/10/3025a52ec4e4eebee4121924a849f71a.png",
+                "width": 512,
+                "height": 654,
+                "size": 118062,
+                "format": "png",
+                "thumbnail": "eBDIRS+uE4NfRP}uv~KOShWU9tt8kWxUso9FkXnis,t6EOX8RPoge:",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#67493c",
+                "averageHueDark": "#664b40"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=7180548038644451696&showType=0",
+              "opItemId": "0",
+              "subjectId": "7180548038644451696",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/26/e43ee024c5a1a3b98e666fd9f847311d.png",
+                "width": 512,
+                "height": 654,
+                "size": 96200,
+                "format": "png",
+                "thumbnail": "eBA-kIX{1E.6yVQyS^In%M%2bcR*H]xui%~URQ9aoMR-4qV_-oWBov",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#48633a",
+                "averageHueDark": "#4b633e"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3025016467214549264&showType=0",
+              "opItemId": "0",
+              "subjectId": "3025016467214549264",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/0dd7af0453cf6c2a9f71a2a6a138a600.png",
+                "width": 315,
+                "height": 402,
+                "size": 46983,
+                "format": "png",
+                "thumbnail": "eGK]PO~6F:$~-icX-*-4xr$$5Qx:K5%GNeoYtOFxxqNI15Sg#ojInj",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#99691f",
+                "averageHueDark": "#664819"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6914089021367371176&showType=0",
+              "opItemId": "0",
+              "subjectId": "6914089021367371176",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/87ed9866c8562c87f15d806d7dc8dbbb.png",
+                "width": 315,
+                "height": 402,
+                "size": 42398,
+                "format": "png",
+                "thumbnail": "e67T|MxuEMRjIpGZX9nijZjFVtX9aexut7wIozf+tRj[0fW;%2WoWA",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#342f2c",
+                "averageHueDark": "#34302f"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5994270639048345072&showType=0",
+              "opItemId": "0",
+              "subjectId": "5994270639048345072",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/fdd57406c6f8cc4258e37e3c0301876a.png",
+                "width": 315,
+                "height": 402,
+                "size": 31913,
+                "format": "png",
+                "thumbnail": "eSH._|xa0xt6Ioz:t7%gsTbbHrX7w~spkCSxoyM{Rjxb9YaKRjR*xb",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7a998a",
+                "averageHueDark": "#55665e"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=585306749088024976&showType=0",
+              "opItemId": "0",
+              "subjectId": "585306749088024976",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/6473b5f4d9e784e748506b8986b9e3cf.png",
+                "width": 315,
+                "height": 402,
+                "size": 36734,
+                "format": "png",
+                "thumbnail": "e89%6_%4tVRrN2LHkCWFR:NEDkbdM^xWoGH;tBxIxDs=0wS6xufNo#",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#462f54",
+                "averageHueDark": "#483354"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6844388780259397552&showType=0",
+              "opItemId": "0",
+              "subjectId": "6844388780259397552",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/1e897e100fc857dff8179e0bbe84ca40.png",
+                "width": 315,
+                "height": 402,
+                "size": 50117,
+                "format": "png",
+                "thumbnail": "eBHU{-={A7x@OR4*xs*$#sif8x%0F^%3S#%MoxRi-pxWBmRQw1o}sX",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#8a8454",
+                "averageHueDark": "#666242"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1134950352660450384&showType=0",
+              "opItemId": "0",
+              "subjectId": "1134950352660450384",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/c3668d0057e07de96126eaeff3ec5b0d.png",
+                "width": 315,
+                "height": 402,
+                "size": 56413,
+                "format": "png",
+                "thumbnail": "eRE3Vis:9HogIpvvWAo}t5kW9FWVr?xZxWTLozVrWCnhIokC%1R,S5",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#5d6a7b",
+                "averageHueDark": "#515a66"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3018369790575624640&showType=0",
+              "opItemId": "0",
+              "subjectId": "3018369790575624640",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/539ed41968143dccf8b231f420b3c206.png",
+                "width": 315,
+                "height": 402,
+                "size": 51677,
+                "format": "png",
+                "thumbnail": "eDF$OF?FSc%GOp1RS}Ipoyoe02aiIWOrn+UyI@OVsqnl0%nP$*rvrv",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#7a7a42",
+                "averageHueDark": "#66663b"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6202045291219635280&showType=0",
+              "opItemId": "0",
+              "subjectId": "6202045291219635280",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/2f6210ba704b34f2ca63ca7902d4c2b7.png",
+                "width": 315,
+                "height": 402,
+                "size": 50904,
+                "format": "png",
+                "thumbnail": "eCGP]x=}RiwcRQPn-pKOWUa1AZg39uWAogEfEfM{w^sA0eE1$4xaxu",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#823b39",
+                "averageHueDark": "#663331"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5381967946573038008&showType=0",
+              "opItemId": "0",
+              "subjectId": "5381967946573038008",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/b14b57607533a44fb1936428ab7526bc.png",
+                "width": 315,
+                "height": 402,
+                "size": 32729,
+                "format": "png",
+                "thumbnail": "eGIoOs^N#l]-Oq,-=wf5wcOqEfw_Nar[R+F2I;s;-Br?0fI;t7xZsm",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#944032",
+                "averageHueDark": "#663026"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1734991291462699408&showType=0",
+              "opItemId": "0",
+              "subjectId": "1734991291462699408",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/c962034b907f8246ea824c658533c6f7.png",
+                "width": 315,
+                "height": 402,
+                "size": 60134,
+                "format": "png",
+                "thumbnail": "eHDw5Y~B^P%}RPyN%N-otloMU_t9NtozWrx@xUIWxbRk4nW,RjxFxs",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#5b708d",
+                "averageHueDark": "#465366"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=4496313589552367088&showType=0",
+              "opItemId": "0",
+              "subjectId": "4496313589552367088",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/e6aefca0226f44c7bf1c7c2e8b95eeb9.png",
+                "width": 315,
+                "height": 402,
+                "size": 46188,
+                "format": "png",
+                "thumbnail": "eTF6R.ohADs;R5MbR,S~tRsAmmo#NbNxn+W,o#W?R*sm0fWBwdn$xt",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#60728f",
+                "averageHueDark": "#485466"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3797692697356419856&showType=0",
+              "opItemId": "0",
+              "subjectId": "3797692697356419856",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/12a60076e0f1e6a96d999b384def9e00.png",
+                "width": 315,
+                "height": 402,
+                "size": 57410,
+                "format": "png",
+                "thumbnail": "eEFi*HkrIf^}-.QMWtIw%ItM55ozD+adIBxUt3IURkV@91adxUM~x@",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#788840",
+                "averageHueDark": "#5b6634"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=7797040838936512952&showType=0",
+              "opItemId": "0",
+              "subjectId": "7797040838936512952",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/ef732740a8953dea06dde6ff950e22b1.png",
+                "width": 315,
+                "height": 402,
+                "size": 54063,
+                "format": "png",
+                "thumbnail": "eRG@P{K5NY$7nj0dS#Ora~XSEM#+nmkCW-yCof$7oIWBD$WEt7OASg",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#80505f",
+                "averageHueDark": "#66444e"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=8596506798738260752&showType=0",
+              "opItemId": "0",
+              "subjectId": "8596506798738260752",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/ea5657a074706d2ab6f3083c8f39c2e3.png",
+                "width": 315,
+                "height": 402,
+                "size": 51104,
+                "format": "png",
+                "thumbnail": "eJDwdh~WoGbcVr-M?GtRRjnhvdskNfIVM|-;RjIVIoIp0KNIjXM{j?",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#567d99",
+                "averageHueDark": "#3d5566"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=4498371875319464720&showType=0",
+              "opItemId": "0",
+              "subjectId": "4498371875319464720",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/3aa023ac22643198e1da475ff0413799.png",
+                "width": 315,
+                "height": 402,
+                "size": 39906,
+                "format": "png",
+                "thumbnail": "eNC7a4cGaR$eTEIW^1${Nfizz,tRs*s;X8-PX9Ros:tP5TvzxCR-j0",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#446a83",
+                "averageHueDark": "#395466"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=5449898034089936368&showType=0",
+              "opItemId": "0",
+              "subjectId": "5449898034089936368",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2024/09/04/5678d80d8c107f665180ff9e8bec8cdb.png",
+                "width": 315,
+                "height": 402,
+                "size": 54332,
+                "format": "png",
+                "thumbnail": "eDJQJc~R%o^$x-eR=tWG$ysq5R=:R8ofi{0WTJ%Ji_tME3D-o|ozt6",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#99762f",
+                "averageHueDark": "#664e1f"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=9151034920976936648&showType=0",
+              "opItemId": "0",
+              "subjectId": "9151034920976936648",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/31/5b3cf621f67db676a81a8882d752c3ec.png",
+                "width": 315,
+                "height": 402,
+                "size": 49198,
+                "format": "png",
+                "thumbnail": "eKF$wy?v0.Nfbx[T%NxsofjD8|s:tkxZw]7MbbNNt7xv0;I^ngt6xZ",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#688572",
+                "averageHueDark": "#54665a"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6974155401722317200&showType=0",
+              "opItemId": "0",
+              "subjectId": "6974155401722317200",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1773108822",
+        "enableDedup": 0,
+        "currentPage": 1
+      },
+      {
+        "type": "CUSTOM",
+        "position": 100,
+        "title": "Animation Elite Collection",
+        "groups": [],
+        "subjects": [],
+        "banner": null,
+        "icons": [],
+        "rankings": [],
+        "opId": "6958602990136053264",
+        "deepLink": "",
+        "filters": [],
+        "customData": {
+          "rowCount": 2,
+          "items": [
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/08/26/2f13e742e2ab32070b33397a3bd6b03e.png",
+                "width": 512,
+                "height": 291,
+                "size": 57771,
+                "format": "png",
+                "thumbnail": "eECiEq$MxGbb9Z0Kt7NasAxtNboMWCNGxaRks9$%kVj[W=s:WBRkM|",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#5d443a",
+                "averageHueDark": "#5d463e"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6410443555462433032&showType=0",
+              "opItemId": "0",
+              "subjectId": "6410443555462433032",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/75fb6e5db4698e52a45a1ca1b24510f1.png",
+                "width": 810,
+                "height": 460,
+                "size": 637397,
+                "format": "png",
+                "thumbnail": "eKFF2CSu9tPV9@0h-C$$ELNJVWXBohrXs:ivwONyXSbFV=%2oxM{R-",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#705e6b",
+                "averageHueDark": "#665a63"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6270337229731021808&showType=0",
+              "opItemId": "0",
+              "subjectId": "6270337229731021808",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/53a6c82074616e3622756729d6dfaefb.png",
+                "width": 810,
+                "height": 460,
+                "size": 638405,
+                "format": "png",
+                "thumbnail": "eIE4ALlnhL#kE24n.7RjM{M{tSpJnkM|VYTKtmxtR%iwQ.%2jFM{WU",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#62837f",
+                "averageHueDark": "#506663"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=9106716589579292048&showType=0",
+              "opItemId": "0",
+              "subjectId": "9106716589579292048",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/448634ca2d0d7ae49c32fa0fe6e35687.png",
+                "width": 810,
+                "height": 460,
+                "size": 656038,
+                "format": "png",
+                "thumbnail": "eJG]88x,t,NGot01.5M{MytRi{%3s+oMID%2%LxHRnRRIBxsaLV[WB",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#818764",
+                "averageHueDark": "#626650"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3453537972950287448&showType=0",
+              "opItemId": "0",
+              "subjectId": "3453537972950287448",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/9773787ae7523f5b2e94ec724bf1a548.png",
+                "width": 810,
+                "height": 460,
+                "size": 534567,
+                "format": "png",
+                "thumbnail": "eEEeWR4}N86nBo0J^iK3InS0i_$iSJOmRP#-NQ$yS2acRN=|NFI:oa",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#654d6b",
+                "averageHueDark": "#614e66"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3734080563800686936&showType=0",
+              "opItemId": "0",
+              "subjectId": "3734080563800686936",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/370b5100260a0dcb3fd16a9549daa66b.png",
+                "width": 810,
+                "height": 460,
+                "size": 565628,
+                "format": "png",
+                "thumbnail": "eEDl.[f4N1~2OC4n}@=?EMsnMwXAsns;s-R4IrNfobV@9Yt6RjIrWX",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#5c5f70",
+                "averageHueDark": "#585a66"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=6623210093503040912&showType=0",
+              "opItemId": "0",
+              "subjectId": "6623210093503040912",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/18ed789a98109596b45430c96c9a4738.png",
+                "width": 810,
+                "height": 460,
+                "size": 408378,
+                "format": "png",
+                "thumbnail": "eBAAdXxr%M~p%M9F%MaxM{t7D+IUIoIVIV9aIoR-RkRjIUxtofRjk9",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#444639",
+                "averageHueDark": "#45463c"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=2182238648450665496&showType=0",
+              "opItemId": "0",
+              "subjectId": "2182238648450665496",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/1d8648c2d9cdb35f0f477521a0223c42.png",
+                "width": 810,
+                "height": 460,
+                "size": 625755,
+                "format": "png",
+                "thumbnail": "eLHA@H5ROq=tEREM-pr@IoR-1J-Un%OXrqD*SxbHsWj;D*oyjZM}t3",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#81634f",
+                "averageHueDark": "#665143"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=3094458366039574576&showType=0",
+              "opItemId": "0",
+              "subjectId": "3094458366039574576",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/fe1dfed30cd241b4953611d45752bda8.png",
+                "width": 810,
+                "height": 460,
+                "size": 521640,
+                "format": "png",
+                "thumbnail": "eHF#Eu9uRP}?AHIA%MjFVsOY1h^2soAEwING$$%1WYi_#7tkt7ixR+",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#755641",
+                "averageHueDark": "#664d3d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=633465470053664816&showType=0",
+              "opItemId": "0",
+              "subjectId": "633465470053664816",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            },
+            {
+              "image": {
+                "url": "https://pbcdn.aoneroom.com/image/2025/07/24/98da14680bc81855232858480d37a92f.png",
+                "width": 810,
+                "height": 460,
+                "size": 559566,
+                "format": "png",
+                "thumbnail": "eHHUtMvy~6%gNYOn-pIoRjNHDjXnIqIUIW02xZesE2t64q?FR+M|t5",
+                "gif": {
+                  "videoUrl": "",
+                  "firstFrameUrl": ""
+                },
+                "averageHueLight": "#81745c",
+                "averageHueDark": "#665d4d"
+              },
+              "content": "",
+              "deepLink": "oneroom://com.community.oneroom?type=/home/category&categoryType=1803655354530644312&showType=0",
+              "opItemId": "0",
+              "subjectId": "1803655354530644312",
+              "hasResource": false,
+              "seenStatus": 0,
+              "subject": null
+            }
+          ],
+          "hiddenTitle": false
+        },
+        "playListData": null,
+        "rankingData": null,
+        "rankingListData": null,
+        "liveList": [],
+        "page": null,
+        "postData": [],
+        "version": "1757056603",
+        "enableDedup": 0,
+        "currentPage": 1
+      }
+    ],
+    "version": "1eb86ca6bbe3baa2d1bdefa5acc15436",
+    "trendingTitle": "",
+    "ops": "{\"trace_id\":\"0a21c9bc17755865158680a113445e82\"}",
+    "groupPos": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "streams": [
+      {
+        "format": "DASH",
+        "id": "8921461690575765800",
+        "url": "https://sacdn.hakunaymatata.com/dash/3350050042852901216_1_1_720_h265_430/index.mpd",
+        "resolutions": "720,480",
+        "size": "198943537",
+        "duration": 1421,
+        "codecName": "hevc",
+        "signCookie": "CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9kYXNoLzMzNTAwNTAwNDI4NTI5MDEyMTZfMV8xXzcyMF9oMjY1XzQzMC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc1ODg3NzY5fX19XX0_;CloudFront-Signature=2~rvbv7420VDnjfMmwLQ-e~PqPK6nl7dwsJG2urWIdCpDWTHs4DPqq-fhmVYK-oBz7CcgpUT-LwE~7liJ7TabPMp1LQufZMdb9DRLeNf3au5hadNIJLiqHil9dUh3XCeg5JjbRitVNMDciOobzNhs~DAf6eTQi6b6-tFFMcnoxpSQUf8~NtOaJKYPtOYsqCzwrITZgdDUzgfkYwGHXZZf4CSdkwjXA~XgL8KILOfh4goAUIA9RQx4NVLc3QoMSv-b9-W8hpY0ikwiO10Kkg7sXdCNVu1-nWpW1vffs3NR7ibDlvCbhTUiR1UyaAeHqrnnhulh9Rsgf6HnIuNnuHPNg__;CloudFront-Key-Pair-Id=KMHN1LQ1HEUPL;",
+        "idType": ""
+      }
+    ],
+    "title": ""
+  }
+}

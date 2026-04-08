@@ -1,0 +1,57 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "dubs": [
+      {
+        "subjectId": "3619725132714887968",
+        "lanName": "Original Audio",
+        "lanCode": "ja",
+        "original": true,
+        "type": 0
+      },
+      {
+        "subjectId": "7231184498325966096",
+        "lanName": "English dub",
+        "lanCode": "en",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "3350050042852901216",
+        "lanName": "Hindi dub",
+        "lanCode": "hi",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "1674744651330339184",
+        "lanName": "Tamil dub",
+        "lanCode": "ta",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "1422543072197592552",
+        "lanName": "Telugu dub",
+        "lanCode": "te",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4324850899446386984",
+        "lanName": "esla dub",
+        "lanCode": "esla",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4052170619893468696",
+        "lanName": "ptbr dub",
+        "lanCode": "ptbr",
+        "original": false,
+        "type": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "moviebox-v3.1.apk"
+  ],
+  "treeExpansionsV2": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "C:\\Users\\akshi\\AppData\\Local\\skylot\\jadx\\cache\\projects\\moviebox-v3.1-94c5f07c5729257f48c355352ed6d0a8",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

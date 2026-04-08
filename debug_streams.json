@@ -1,0 +1,13 @@
+[
+  {
+    "format": "DASH",
+    "id": "613018221679198576",
+    "url": "https://sacdn.hakunaymatata.com/dash/3619725132714887968_1_1_1080_h265_486/index.mpd",
+    "resolutions": "1080,720,480",
+    "size": "442898966",
+    "duration": 1423,
+    "codecName": "hevc",
+    "signCookie": "CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9kYXNoLzM2MTk3MjUxMzI3MTQ4ODc5NjhfMV8xXzEwODBfaDI2NV80ODYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NTg0NTAxN319fV19;CloudFront-Signature=v4MXNYZDYTxDedHFSkDCMGpsKE~gValsSSPB2O59~Cq0SXBZQh5BSwDnl34lN6LKquFO8ub1wMk6J8W93SZ3oVTxK~cD31MQNSDK9MUzFhAx-~6n1~uQRQZY4KG1DTuGbzoIj9XYOCi0Bx5Gh4vCBKyOjn~iXWY5GCrPdlrUMIutz4KSwvmpbz2S0emgR0aVstAnYUvzQMu~zLVjEN85ia-UiqzU7W3AM4PzuyFBc6bHHd9nmolnlUxO8fuYQjzcUr~Hx~9MTEP0IhVZbOqK9~fKSaljbUjsPg2UYwnf2ay0w7oHIbv-t084hfkc0Idd91Zyx4DaHOJcRU~2B~783A__;CloudFront-Key-Pair-Id=KMHN1LQ1HEUPL;",
+    "idType": ""
+  }
+]

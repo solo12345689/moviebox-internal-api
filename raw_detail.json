@@ -1,0 +1,337 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "subjectId": "4178156302188921152",
+    "subjectType": 2,
+    "title": "The Rising of the Shield Hero [Hindi]",
+    "description": "A gamer is magically summoned into a parallel universe, where he is chosen as one of four heroes destined to save the world from its prophesied doom.",
+    "releaseDate": "2025-01-01",
+    "duration": "",
+    "genre": "Anime, Action, Adventure",
+    "cover": {
+      "url": "https://pbcdn.aoneroom.com/image/2026/04/01/64a99745588be62438134def731c4d25.jpg",
+      "width": 600,
+      "height": 856,
+      "size": 68964,
+      "format": "jpg",
+      "thumbnail": "ePE.kHxZD+oMaw$foetQoLof0MWXt3WBo3JmWCRkR*V@NHRjWYkCWB",
+      "gif": null,
+      "averageHueLight": "#726653",
+      "averageHueDark": "#665d4e"
+    },
+    "preVideoCover": null,
+    "preVideoAddress": [],
+    "countryName": "Japan",
+    "language": "Japanese",
+    "imdbRatingValue": "7.7",
+    "staffList": [
+      {
+        "staffId": "3026182369911917232",
+        "staffType": 1,
+        "name": "Kaito Ishikawa",
+        "character": "Naofumi Iwatani",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3026182369911917232",
+        "staffType": 1,
+        "name": "Kaito Ishikawa",
+        "character": "Iwatani Naofumi",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "358004099857140400",
+        "staffType": 1,
+        "name": "Asami Seto",
+        "character": "Raphtalia",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1815036748894195704",
+        "staffType": 1,
+        "name": "Rina Hidaka",
+        "character": "Filo",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1618910840449551960",
+        "staffType": 1,
+        "name": "Maaya Uchida",
+        "character": "Melty Q Melromarc",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1618910840449551960",
+        "staffType": 1,
+        "name": "Maaya Uchida",
+        "character": "Melty",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1618910840449551960",
+        "staffType": 1,
+        "name": "Maaya Uchida",
+        "character": "Melty Melromarc",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3395477539354725976",
+        "staffType": 1,
+        "name": "Yoshitsugu Matsuoka",
+        "character": "Ren Amaki",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1368847249865933976",
+        "staffType": 1,
+        "name": "Erica Mendez",
+        "character": "Raphtalia",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2024/03/19/bd3387cd7dfd675a5bdd4cd1ba3dabc7.jpg"
+      },
+      {
+        "staffId": "2650477047678127704",
+        "staffType": 1,
+        "name": "Billy Kametz",
+        "character": "Naofumi Iwatani",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2023/08/11/8bc41e8498fa8f72824e55bc2afafed2-s.jpg"
+      },
+      {
+        "staffId": "1981503237760894992",
+        "staffType": 1,
+        "name": "Robbie Friedman",
+        "character": "Additional Voices",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3499590847291609648",
+        "staffType": 1,
+        "name": "Sarah Emi Bridcutt",
+        "character": "Myne",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3499590847291609648",
+        "staffType": 1,
+        "name": "Sarah Emi Bridcutt",
+        "character": "Malty S Melromarc",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "2901252617135344984",
+        "staffType": 1,
+        "name": "Yoshitaka Yamaya",
+        "character": "Itsuki Kawasumi",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "2919970703086603000",
+        "staffType": 1,
+        "name": "Makoto Takahashi",
+        "character": "Motoyasu Kitamura",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3729352491466644520",
+        "staffType": 1,
+        "name": "Faye Mata",
+        "character": "Myne",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/13/5b2bbf485731d14e37bea70acb5a0a15.jpg"
+      },
+      {
+        "staffId": "4664182658509981304",
+        "staffType": 1,
+        "name": "Hiroki Yasumoto",
+        "character": "Elhart",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "1570611820083171120",
+        "staffType": 1,
+        "name": "Kikuko Inoue",
+        "character": "Mirellia Q. Melromarc",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/07/dcbad5769acc51845eb56f6329accc27.jpg"
+      },
+      {
+        "staffId": "1570611820083171120",
+        "staffType": 1,
+        "name": "Kikuko Inoue",
+        "character": "Mirellia Q Melromarc",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/07/dcbad5769acc51845eb56f6329accc27.jpg"
+      },
+      {
+        "staffId": "7113989752408134424",
+        "staffType": 1,
+        "name": "Natsumi Fujiwara",
+        "character": "Keel",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "8576323387522440856",
+        "staffType": 1,
+        "name": "Natsuko Hara",
+        "character": "Rishia Ivyred",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "7538980054144796528",
+        "staffType": 1,
+        "name": "Katelyn Gault",
+        "character": "Mirellia Q. Melromarc",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2023/03/29/53e218b88ce9267df527f7cd7fea34e5.jpg"
+      },
+      {
+        "staffId": "7538980054144796528",
+        "staffType": 1,
+        "name": "Katelyn Gault",
+        "character": "Mirelia",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2023/03/29/53e218b88ce9267df527f7cd7fea34e5.jpg"
+      },
+      {
+        "staffId": "180744190668721216",
+        "staffType": 1,
+        "name": "Ruriko Aoki",
+        "character": "Eclair Seyaette",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "180744190668721216",
+        "staffType": 1,
+        "name": "Ruriko Aoki",
+        "character": "Eclair",
+        "avatarUrl": ""
+      }
+    ],
+    "wantToSeeCount": 0,
+    "haveSeenCount": 0,
+    "seenStatus": 0,
+    "mySeeTime": "0",
+    "myScoreValue": 0,
+    "myScorePostId": "0",
+    "myScoreTime": "0",
+    "opt": "",
+    "hasResource": true,
+    "resourceDetectors": [
+      {
+        "type": 1,
+        "totalEpisode": 38,
+        "totalSize": "3193633260",
+        "uploadTime": "1774583408",
+        "uploadBy": "Oumychou etc.",
+        "resourceLink": "https://www.fzmovies.cms/tv-The Rising of the Shield Hero_hi_1_1_1080P.html/season-1/episode-1-r480P-264",
+        "downloadUrl": "",
+        "source": "fzmovies.cms etc.",
+        "firstSize": "260675164",
+        "resourceId": "6588385538741782264",
+        "postId": "3129621024921347568",
+        "extCaptions": [],
+        "resolutionList": [],
+        "subjectId": "4178156302188921152",
+        "codecName": ""
+      }
+    ],
+    "ops": "",
+    "durationSeconds": 0,
+    "stills": null,
+    "trailer": {
+      "VideoAddress": {
+        "videoId": "5179691368473657784",
+        "definition": "sd",
+        "url": "https://macdn.aoneroom.com/media/vone/2024/04/10/1024797aff364ac503cb1c86a9d44bff-sd.mp4",
+        "duration": 90,
+        "width": 848,
+        "height": 476,
+        "size": 5242098,
+        "fps": 23,
+        "bitrate": 463,
+        "type": 1
+      },
+      "cover": {
+        "url": "https://pbcdn.aoneroom.com/image/2024/04/10/c2a32414d3f71539290617f7bf0985f4.webp",
+        "width": 854,
+        "height": 480,
+        "size": 13416,
+        "format": "webp",
+        "thumbnail": "eMBWlWIB9E%gn$4T%gxuITogkVRiV[WXt7%MM|a}%MM{D%xuxuM_j[",
+        "gif": null,
+        "averageHueLight": "#45445d",
+        "averageHueDark": "#45445d"
+      }
+    },
+    "contentRating": "TV-14",
+    "postTitle": "The Rising of the Shield Hero",
+    "aka": "",
+    "explains": [],
+    "seNum": 2,
+    "viewers": 769,
+    "category": "",
+    "subtitles": "English",
+    "dubs": [
+      {
+        "subjectId": "2606360185140561272",
+        "lanName": "Original Audio",
+        "lanCode": "ja",
+        "original": true,
+        "type": 0
+      },
+      {
+        "subjectId": "5601152875150950768",
+        "lanName": "English dub",
+        "lanCode": "en",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4178156302188921152",
+        "lanName": "Hindi dub",
+        "lanCode": "hi",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "3025758407782454368",
+        "lanName": "Tamil dub",
+        "lanCode": "ta",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "3941677981998928992",
+        "lanName": "Telugu dub",
+        "lanCode": "te",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4183069819937374728",
+        "lanName": "esla dub",
+        "lanCode": "esla",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "8338628348729509656",
+        "lanName": "ptbr dub",
+        "lanCode": "ptbr",
+        "original": false,
+        "type": 0
+      }
+    ],
+    "relatedApp": null,
+    "restrictLevel": "",
+    "corner": "",
+    "likeStatus": 0,
+    "style": {
+      "colNum": 3,
+      "shape": "Vertical"
+    },
+    "detailUrl": "https://moviebox.ph/detail/the-rising-of-the-shield-hero-hindi-KDybxJ00EY4",
+    "playUrl": {
+      "playUrl": "",
+      "urlType": "PLAY_URL_WEB"
+    },
+    "restrictKid": 0,
+    "season": 0,
+    "isCam": false
+  }
+}

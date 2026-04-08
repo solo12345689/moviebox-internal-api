@@ -1,0 +1,128 @@
+{
+  "session_id": "99123709-7707-4e1e-8376-02b16bc5f2db",
+  "seeType_1_count": 1,
+  "seeType_1_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_2_count": 1,
+  "seeType_2_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_3_count": 1,
+  "seeType_3_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_4_count": 1,
+  "seeType_4_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_5_count": 1,
+  "seeType_5_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_6_count": 1,
+  "seeType_6_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_7_count": 1,
+  "seeType_7_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_8_count": 1,
+  "seeType_8_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "seeType_9_count": 1,
+  "seeType_9_sample_keys": [
+    "type",
+    "subject",
+    "staff"
+  ],
+  "profile": {
+    "code": 0,
+    "message": "ok",
+    "data": {
+      "userInfo": {
+        "userId": "4178396813914949880",
+        "userType": 1,
+        "username": "462157420",
+        "nickname": "Vf0SKG",
+        "avatar": "https://pacdn.aoneroom.com/app/avatar/default_avatar_01.webp",
+        "gender": 0,
+        "birthday": "",
+        "age": 0,
+        "country": "IN",
+        "province": "",
+        "city": "",
+        "cc": "",
+        "phone": "",
+        "mail": "nonap84263@marvetos.com",
+        "profile": ""
+      },
+      "myGroup": {
+        "count": 0,
+        "groups": []
+      },
+      "mySubject": {
+        "wantToSeeCount": 1,
+        "haveSeenCount": 0,
+        "wantSubjects": []
+      },
+      "blockInfo": {
+        "block": false,
+        "blocked": false
+      },
+      "fissionState": {
+        "isNew": true,
+        "boundInviteCode": ""
+      },
+      "vipInfo": {
+        "isActive": false,
+        "memberType": 0,
+        "durationType": 0,
+        "isAutoRenew": false,
+        "expiryDate": "",
+        "nextRenewDate": "",
+        "daysLeft": 0,
+        "point": 2
+      },
+      "myPost": {
+        "count": 0
+      },
+      "myLike": {
+        "count": 0
+      },
+      "myComment": {
+        "count": 0
+      },
+      "novelEntry": {
+        "title": "Hot Novels",
+        "icon": "https://pbcdn.aoneroom.com/image/2026/03/02/0ea8b3741d512b23c360ac939285838e.png",
+        "buttonText": "Read now",
+        "buttonUrl": "oneroom://com.community.oneroom?miniapp_deeplink=dlt%3A%2F%2Fminiapp%3FappId%3D1000681057309249536%26page%3Dpages%2Fbookstore%2Findex%26extraMiniClearAllPages%3Dtrue%26scene_id%3D300004",
+        "subItems": [],
+        "description": "Offline, Free and Daily updated"
+      },
+      "favoriteInfo": {
+        "favoriteCount": 0
+      },
+      "subscribeInfo": null
+    }
+  }
+}

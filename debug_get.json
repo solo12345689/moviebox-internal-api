@@ -1,0 +1,354 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "subjectId": "3619725132714887968",
+    "subjectType": 2,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+    "releaseDate": "2021-01-22",
+    "duration": "",
+    "genre": "Anime, Action, Adventure",
+    "cover": {
+      "url": "https://pbcdn.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
+      "width": 1200,
+      "height": 1800,
+      "size": 300361,
+      "format": "jpg",
+      "thumbnail": "eC8|-Vs+9ZaLtlW.a|ofj[WB0KR.xWbGnioIoJRjWBxtnOjY%Ns;Io",
+      "gif": null,
+      "averageHueLight": "#393945",
+      "averageHueDark": "#3b3b45"
+    },
+    "preVideoCover": null,
+    "preVideoAddress": [],
+    "countryName": "Japan",
+    "language": "Japanese, English",
+    "imdbRatingValue": "8.6",
+    "staffList": [
+      {
+        "staffId": "5701320548567895640",
+        "staffType": 1,
+        "name": "Natsuki Hanae",
+        "character": "Tanjiro Kamado",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/90e55e9b60c5b20bf30367d4fc171748.jpg"
+      },
+      {
+        "staffId": "1735225976528719448",
+        "staffType": 1,
+        "name": "Zach Aguilar",
+        "character": "Tanjiro Kamado",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/cf8a79d2e04c15c46de7a832fecd85db.jpg"
+      },
+      {
+        "staffId": "8651124600225027104",
+        "staffType": 1,
+        "name": "Abby Trott",
+        "character": "Nezuko Kamado",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/11/03/1302647a6ca82dcbc186b610ccdd0847.jpg"
+      },
+      {
+        "staffId": "8651124600225027104",
+        "staffType": 1,
+        "name": "Abby Trott",
+        "character": "Chuntaro",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/11/03/1302647a6ca82dcbc186b610ccdd0847.jpg"
+      },
+      {
+        "staffId": "8651124600225027104",
+        "staffType": 1,
+        "name": "Abby Trott",
+        "character": "Hand Demon's Brother",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/11/03/1302647a6ca82dcbc186b610ccdd0847.jpg"
+      },
+      {
+        "staffId": "3395477539354201688",
+        "staffType": 1,
+        "name": "Akari Kit\u00f4",
+        "character": "Nezuko Kamado",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3395477539354725976",
+        "staffType": 1,
+        "name": "Yoshitsugu Matsuoka",
+        "character": "Inosuke Hashibira",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3395477539355250264",
+        "staffType": 1,
+        "name": "Hiro Shimono",
+        "character": "Zenitsu Agatsuma",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/e0efe266a63aa79a0bfb93b6713b06c0.jpg"
+      },
+      {
+        "staffId": "275232314763922784",
+        "staffType": 1,
+        "name": "Aleks Le",
+        "character": "Zenitsu Agatsuma",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/13/6588553dc22df2a16608ee74907005a8.jpg"
+      },
+      {
+        "staffId": "275232314763922784",
+        "staffType": 1,
+        "name": "Aleks Le",
+        "character": "Additional Voices",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/13/6588553dc22df2a16608ee74907005a8.jpg"
+      },
+      {
+        "staffId": "646388734052683568",
+        "staffType": 1,
+        "name": "Bryce Papenbrook",
+        "character": "Inosuke Hashibira",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/07/409dcb1ee40782a21e3f0c4ca8ae7a65.jpg"
+      },
+      {
+        "staffId": "3101671756633883472",
+        "staffType": 1,
+        "name": "You-Wu-Yue-Shan",
+        "character": "Tanjirou Kamado",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3101671756633883472",
+        "staffType": 1,
+        "name": "You-Wu-Yue-Shan",
+        "character": "Naho Takada",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "3101671756633883472",
+        "staffType": 1,
+        "name": "You-Wu-Yue-Shan",
+        "character": "Teruko",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "4465899604890502224",
+        "staffType": 1,
+        "name": "Gui Niang",
+        "character": "Shinobu Kochou",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "5446088382529029200",
+        "staffType": 1,
+        "name": "Lin Hu",
+        "character": "Teoni",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "5446088382529029200",
+        "staffType": 1,
+        "name": "Lin Hu",
+        "character": "Yushirou",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "6769882212516384552",
+        "staffType": 1,
+        "name": "Toshiyuki Morikawa",
+        "character": "Kagaya Ubuyashiki",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/02/afbb2e7cc10979cc947a50010fe4178b.jpg"
+      },
+      {
+        "staffId": "3640865633909231400",
+        "staffType": 1,
+        "name": "Doug Erholtz",
+        "character": "Kasugai Crow",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/02/72d57f86c74f68d24f5582f12275a6f7.jpg"
+      },
+      {
+        "staffId": "3640865633909231400",
+        "staffType": 1,
+        "name": "Doug Erholtz",
+        "character": "Additional Voices",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/02/72d57f86c74f68d24f5582f12275a6f7.jpg"
+      },
+      {
+        "staffId": "3640865633909231400",
+        "staffType": 1,
+        "name": "Doug Erholtz",
+        "character": "Wisteria Inn Attendant",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/02/72d57f86c74f68d24f5582f12275a6f7.jpg"
+      },
+      {
+        "staffId": "3206326355005688496",
+        "staffType": 1,
+        "name": "Ray Chase",
+        "character": "Tengen Uzui",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/5aab2a3bee04b2a86d736166a4d023dd.jpg"
+      },
+      {
+        "staffId": "3206326355005688496",
+        "staffType": 1,
+        "name": "Ray Chase",
+        "character": "Lower Two",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/5aab2a3bee04b2a86d736166a4d023dd.jpg"
+      },
+      {
+        "staffId": "2202824724663650160",
+        "staffType": 1,
+        "name": "Kengo Kawanishi",
+        "character": "Muichiro Tokito",
+        "avatarUrl": ""
+      },
+      {
+        "staffId": "8034121710289440560",
+        "staffType": 1,
+        "name": "Takahiro Sakurai",
+        "character": "Giyu Tomioka",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/09/07/26d5f3d98a5da80bcbd23d738db88863.jpg"
+      },
+      {
+        "staffId": "3395477539355774552",
+        "staffType": 1,
+        "name": "Katsuyuki Konishi",
+        "character": "Tengen Uzui",
+        "avatarUrl": "https://pbcdn.aoneroom.com/image/2022/10/14/50326a230bc257d8ca1b2e8fbb7558bd.jpg"
+      }
+    ],
+    "wantToSeeCount": 0,
+    "haveSeenCount": 0,
+    "seenStatus": 0,
+    "mySeeTime": "0",
+    "myScoreValue": 0,
+    "myScorePostId": "0",
+    "myScoreTime": "0",
+    "opt": "",
+    "hasResource": true,
+    "resourceDetectors": [
+      {
+        "type": 1,
+        "totalEpisode": 63,
+        "totalSize": "3167959233",
+        "uploadTime": "1679639750",
+        "uploadBy": "QuinNellow etc.",
+        "resourceLink": "https://ailok.pe/info/Demon Slayer: Kimetsu no Yaiba-36197/S1E1-360P",
+        "downloadUrl": "",
+        "source": "ailok.pe etc.",
+        "firstSize": "82881774",
+        "resourceId": "1982340084221231840",
+        "postId": "2126455272297090024",
+        "extCaptions": [],
+        "resolutionList": [],
+        "subjectId": "3619725132714887968",
+        "codecName": ""
+      }
+    ],
+    "ops": "",
+    "durationSeconds": 0,
+    "stills": {
+      "url": "https://pbcdn.aoneroom.com/image/2023/12/04/50d5ea45a041b750b7dcd999ec2f3fab.webp",
+      "width": 854,
+      "height": 480,
+      "size": 24626,
+      "format": "webp",
+      "thumbnail": "e76*dabp0Ka8xI%LW-Iot7jb9GRS-:x?WmD*e=xubEoxk8oea#Rkjc",
+      "gif": null,
+      "averageHueLight": "#2b2b25",
+      "averageHueDark": "#2b2b25"
+    },
+    "trailer": {
+      "VideoAddress": {
+        "videoId": "1369430643863602896",
+        "definition": "sd",
+        "url": "https://macdn.aoneroom.com/media/vone/2023/12/04/312f2d2e39763c2dedb80b62ce9c3d98-sd.mp4",
+        "duration": 20,
+        "width": 848,
+        "height": 476,
+        "size": 1190621,
+        "fps": 25,
+        "bitrate": 474,
+        "type": 1
+      },
+      "cover": {
+        "url": "https://pbcdn.aoneroom.com/image/2023/12/04/50d5ea45a041b750b7dcd999ec2f3fab.webp",
+        "width": 854,
+        "height": 480,
+        "size": 24626,
+        "format": "webp",
+        "thumbnail": "e76*dabp0Ka8xI%LW-Iot7jb9GRS-:x?WmD*e=xubEoxk8oea#Rkjc",
+        "gif": null,
+        "averageHueLight": "#2b2b25",
+        "averageHueDark": "#2b2b25"
+      }
+    },
+    "contentRating": "TV-MA",
+    "postTitle": "Breathtaking",
+    "aka": "",
+    "explains": [],
+    "seNum": 5,
+    "viewers": 4896,
+    "category": "",
+    "subtitles": "English,Espa\u00f1ol,Filipino,Fran\u00e7ais,Indonesian,Kiswahili,Malay,Portugu\u00eas,T\u00fcrk\u00e7e,ti\u1ebfng Vi\u1ec7t,\u0420\u0443\u0441\u0441\u043a\u0438\u0439,\u0627\u064e\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629\u064f,\u0627\u064f\u0631\u062f\u064f\u0648,\u0641\u0627\u0631\u0633\u06cc,\u0647\u064e\u0631\u0652\u0634\u065c\u0646 \u0647\u064e\u0648\u0652\u0633,\u09ac\u09be\u0982\u09b2\u09be,\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40,\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22,\u1781\u17c1\u1798\u179a\u1797\u17b6\u179f\u17b6,\u4e2d\u6587",
+    "dubs": [
+      {
+        "subjectId": "3619725132714887968",
+        "lanName": "Original Audio",
+        "lanCode": "ja",
+        "original": true,
+        "type": 0
+      },
+      {
+        "subjectId": "7231184498325966096",
+        "lanName": "English dub",
+        "lanCode": "en",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "3350050042852901216",
+        "lanName": "Hindi dub",
+        "lanCode": "hi",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "1674744651330339184",
+        "lanName": "Tamil dub",
+        "lanCode": "ta",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "1422543072197592552",
+        "lanName": "Telugu dub",
+        "lanCode": "te",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4324850899446386984",
+        "lanName": "esla dub",
+        "lanCode": "esla",
+        "original": false,
+        "type": 0
+      },
+      {
+        "subjectId": "4052170619893468696",
+        "lanName": "ptbr dub",
+        "lanCode": "ptbr",
+        "original": false,
+        "type": 0
+      }
+    ],
+    "relatedApp": null,
+    "restrictLevel": "",
+    "corner": "",
+    "likeStatus": 0,
+    "style": {
+      "colNum": 3,
+      "shape": "Vertical"
+    },
+    "detailUrl": "https://moviebox.ph/detail/demon-slayer-kimetsu-no-yaiba-OpOlWPwnoj4",
+    "playUrl": {
+      "playUrl": "",
+      "urlType": "PLAY_URL_WEB"
+    },
+    "restrictKid": 0,
+    "season": 0,
+    "isCam": false
+  }
+}

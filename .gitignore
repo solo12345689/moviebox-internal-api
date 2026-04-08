@@ -1,0 +1,30 @@
+# Decompiled APK files
+moviebox-apkdecompile/
+
+# JADX output
+app-jadx/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gradle
+.gradle/
+
+# Node
+node_modules/
+
+# Build folders
+build/
+dist/
+out/
+
+# Text files
+*.txt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

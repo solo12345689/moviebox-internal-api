@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "pager": {
+      "hasMore": false,
+      "nextPage": "2",
+      "page": "1",
+      "perPage": 10,
+      "totalCount": 0
+    },
+    "items": []
+  }
+}
