@@ -128,8 +128,10 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/subject-api/search-rank`
 *   `/wefeed-mobile-bff/subject-api/season-info`
 *   `/wefeed-mobile-bff/subject-api/see-list-v2`
-*   `/wefeed-mobile-bff/subject-api/start-download-resource`
-*   `/wefeed-mobile-bff/subject-api/subtitle-search`
+*   `/wefeed-mobile-bff/subject-api/start-download-resource`: Initialize download tracking.
+*   `/wefeed-mobile-bff/subject-api/finish-download-resource`: Complete download reporting.
+*   `/wefeed-mobile-bff/subject-api/resource`: Fetch raw resource metadata.
+*   `/wefeed-mobile-bff/subject-api/search-rank`: High-conversion search suggestions.
 *   `/wefeed-mobile-bff/subject-api/topic-list`
 *   `/wefeed-mobile-bff/subject-api/trending/v2`
 *   `/wefeed-mobile-bff/subject-api/want-to-see`
@@ -161,6 +163,18 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/tab-api/all`: Home screen layout.
 *   `/wefeed-mobile-bff/vip/member/detail`: Subscription details.
 *   `/wefeed-mobile-bff/vip/member/rights-check`: High-resolution entitlement check.
+*   `/wefeed-mobile-bff/vip/member/rewards-receive`: Claim VIP birthday/loyalty gifts.
+*   `/wefeed-mobile-bff/activity/check-in`: Daily login rewards.
+*   `/wefeed-mobile-bff/activity/check-in-info`: Current streak and history.
+*   `/wefeed-mobile-bff/activity/task-list`: Daily/Weekly operational tasks.
+*   `/wefeed-mobile-bff/activity/global-task`: Milestones and long-term quests.
+*   `/wefeed-mobile-bff/activity/rewards-receive`: Trigger reward distribution.
+*   `/wefeed-mobile-bff/activity/fission/reward-list`: Referral and social growth rewards.
+*   `/wefeed-mobile-bff/activity/download-task-receive`: Rewards for offline consumption.
+*   `/wefeed-mobile-bff/activity/promo-code-bind`: Promotional code redemption.
+*   `/wefeed-mobile-bff/money/coin-log`: Virtual currency transaction history.
+*   `/wefeed-mobile-bff/money/sku-list/get`: Fetch available coin/VIP packages.
+*   `/wefeed-mobile-bff/money/exchange/order`: Finalize coin-to-VIP exchange.
 
 ### **VIP & Membership**
 *   `GET /wefeed-mobile-bff/vip/member/detail`: Check subscription status and expiry.
