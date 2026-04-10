@@ -309,7 +309,34 @@ Unlike movies, a "Game" subject contains an `h5_play` metadata block:
   "orientation": "LANDSCAPE",
   "isH5": true
 }
+---
+
+## 13. Multi-Language & Dubbing Protocol
+
+In the official MovieBox application (reverse-engineered from the Android APK), the "Select Language" feature is powered by a two-phase handshake:
+
+### **Phase 1: Discovery (Metadata Endpoint)**
+To get the list of available dubs and regional languages for a title, the app fetches the detailed metadata.
+*   **Path**: `/wefeed-mobile-bff/subject-api/get`
+*   **Method**: `GET`
+*   **Key Field**: The response contains a `resourceDetectors` array.
+*   **Data Structure**:
+```json
+"resourceDetectors": [
+  { "resourceId": "658838553874178...", "name": "Hindi dub" },
+  { "resourceId": "658838553874179...", "name": "English dub" }
+]
 ```
+
+### **Phase 2: Resolution (Playback Endpoint)**
+When the user selects a specific language (e.g., "Hindi dub"), the app does not call a separate "Selection" API. Instead, it passes the chosen `resourceId` directly to the playback resolver.
+*   **Path**: `/wefeed-mobile-bff/subject-api/play-info`
+*   **Method**: `GET`
+*   **Parameters**:
+    *   `subjectId`: The unique ID of the movie or show.
+    *   `resourceId`: The ID obtained from the `resourceDetectors` list in Phase 1.
+    *   `se` / `ep`: Season and Episode numbers (for TV series).
+*   **Result**: The server returns a `streamList` specifically tailored to that language/resource group.
 
 ### **Native Handling**
 *   **Activity**: Launched via `com.community.oneroom.H5GameActivity`.
