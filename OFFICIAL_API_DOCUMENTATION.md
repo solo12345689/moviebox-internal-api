@@ -128,6 +128,9 @@ The application primarily communicates with clusters like `api6.aoneroom.com` an
 *   **External Subtitles**: `GET /wefeed-mobile-bff/subject-api/get-ext-captions`
     *   *Params*: `resourceId`, `subjectId`, `episode`
     *   *Notes*: Returns high-quality CloudFront-signed `.srt` tracks.
+*   **Operating Module Item List (Curated Collection Grid)**: `POST /wefeed-mobile-bff/operating-module/item-list`
+    *   *Params/Payload*: `tabId`, `tabCode`, `page`, `perPage` (or `pageSize`)
+    *   *Notes*: Powers the dedicated vertical multi-column collection view (`OperateActivity` -> `SubTabFragment`) triggered when tapping 'All >' on thematic operational modules (e.g., 'Anime in Progress').
 
 ### **User, History & Watchlist**
 *   **Fetch History (Watched)**: `GET /wefeed-mobile-bff/subject-api/see-list-v2`
@@ -432,6 +435,7 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/sniff/config`: Configuration rules for external source streaming discovery.
 *   `/wefeed-mobile-bff/app/check-update`: Client app version verification and OTA update manifest.
 *   `/wefeed-mobile-bff/get-op-byid`: Fetches content, items, and layout of a specific operational CMS block by `opId`.
+*   `/wefeed-mobile-bff/operating-module/item-list`: Paginated catalog grid fetch for thematic operational collections (e.g. 'Anime in Progress', curated lists when clicking 'All >').
 *   `/wefeed-mobile-bff/tab-operating-page`: Standalone dynamic layout payload for operational campaign pages.
 *   `/wefeed-mobile-bff/tab-operating-ranklistmulti`: Multi-dimension operational rankings and leaderboards.
 
@@ -519,6 +523,7 @@ The application uses a modular category-based system to populate its vertical ta
 | **Discover** | `/wefeed-mobile-bff/subject-api/top-rec` | POST |
 | **Trending** | `/wefeed-mobile-bff/subject-api/trending/v2` | POST |
 | **Rankings** | `/wefeed-mobile-bff/tab/ranking-list` | GET |
+| **Collection Grid** | `/wefeed-mobile-bff/operating-module/item-list` | POST |
 
 ---
 
@@ -748,6 +753,9 @@ The application responds to intent schemas starting with `oneroom://`.
 *   **Activity Detail**: `oneroom://com.community.oneroom?type=/ab/detail&id=<ActivityId>&channel=push`
 *   **Game Center**: `oneroom://com.community.oneroom?type=/commercial/gamecenter`
 *   **Points / Rewards Dashboard**: `oneroom://member/adtask` or `oneroom://com.community.oneroom?type=/download/panel_activity`
+*   **Section Header 'All >' Navigation (`moviebox://`)**:
+    *   Full Top 100 Leaderboards: `moviebox://home/rank_all?tabId={id}&rankingListId={id}` (opens `RankAllActivity` -> `/wefeed-mobile-bff/tab/ranking-list`)
+    *   Curated Thematic Grid: `moviebox://home/operate_more?tabId={id}&tabCode={code}` (opens `OperateActivity` -> `/wefeed-mobile-bff/operating-module/item-list`)
 *   **Tab Navigation Override**:
     *   Home Tab: `oneroom://com.community.oneroom?type=/main/tab&bottomTab=home`
     *   Top Tab Target: `oneroom://com.community.oneroom?type=/main/tab&bottomTab=home&topTab=<TabName>`
