@@ -276,6 +276,10 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/subject-api/subtitle-search`: Subtitle track listing / search.
 *   `/wefeed-mobile-bff/subject-api/want-to-see-staff`: Watchlist for specific staff updates.
 *   `/wefeed-mobile-bff/subject-api/widget`: Dynamic UI widgets content.
+*   `/wefeed-mobile-bff/subject-api/daily-movie-rec`: Daily curated movie recommendation cards.
+*   `/wefeed-mobile-bff/subject-api/genre-top`: Top-ranked titles and items by genre.
+*   `/wefeed-mobile-bff/subject-api/season-info/v2`: Optimized V2 series season and episode resolver.
+*   `/wefeed-mobile-bff/subject-api/trending-by-sport`: Trending sports highlights and video reels.
 
 ### **User & Identity APIs (`/user-api/`)**
 *   `/wefeed-mobile-bff/user-api/block`
@@ -294,6 +298,7 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/user-api/visitor-login`: Direct guest JWT and user identity bootstrap.
 *   `/wefeed-mobile-bff/user-api/profile/v3`: Advanced user identity profile.
 *   `/wefeed-mobile-bff/user-api/submit-prefer`: Save user category preferences.
+*   `/wefeed-mobile-bff/user-api/device-sessions`: Query and revoke active logged-in device sessions.
 
 ### **User Profiles, Preferences & Location**
 *   `/wefeed-mobile-bff/profile/consume-judge`: User subscription validation checks.
@@ -364,6 +369,10 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/post/list/user/my`: My community posts.
 *   `/wefeed-mobile-bff/post/nearby`: Geolocated user posts feed.
 *   `/wefeed-mobile-bff/interactive/post/like`: Like/Unlike community post.
+*   `/wefeed-mobile-bff/group/class`: Group categorization and topic tags.
+*   `/wefeed-mobile-bff/post/negative-feedback`: "Not Interested" / report action on community posts.
+*   `/wefeed-mobile-bff/post/negative-feedback/config`: Reason tags and options for post negative feedback.
+*   `/wefeed-mobile-bff/post/list-trending/sport`: Sports community trending moments and discussions.
 
 ### **In-App Messaging & Notifications (`/message/`)**
 *   `/wefeed-mobile-bff/message/internal/has-new`: Unread message flags.
@@ -371,6 +380,7 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/message/notify-bar/v2`: V2 banner/toast notifications list.
 *   `/wefeed-mobile-bff/message/push/local/list`: Local client-triggered push schedules.
 *   `/wefeed-mobile-bff/message/report`: Read receipt reports.
+*   `/wefeed-mobile-bff/message/remind`: Scheduled alerts and reminders.
 
 ### **User Follow & Subscriptions (`/subscription/`)**
 *   `/wefeed-mobile-bff/subscription/feed`: Updates from subscribed creators/interests.
@@ -386,6 +396,7 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/activity/fission/bind`: Bind referral code.
 *   `/wefeed-mobile-bff/activity/lottery/prize-redeem`: Confirm prize ticket code.
 *   `/wefeed-mobile-bff/activity/welfare-center`: Task hub landing page.
+*   `/wefeed-mobile-bff/activity/marketing/sku-promotion`: Marketing campaign discounts and promotional plan offers.
 
 ### **General Feedback Systems**
 *   `/wefeed-mobile-bff/feedback/commit`: Submit user tickets.
@@ -419,6 +430,10 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/ad/config`: Static configuration for client-side ad placements.
 *   `/wefeed-mobile-bff/app/config`: Global application properties and overrides.
 *   `/wefeed-mobile-bff/sniff/config`: Configuration rules for external source streaming discovery.
+*   `/wefeed-mobile-bff/app/check-update`: Client app version verification and OTA update manifest.
+*   `/wefeed-mobile-bff/get-op-byid`: Fetches content, items, and layout of a specific operational CMS block by `opId`.
+*   `/wefeed-mobile-bff/tab-operating-page`: Standalone dynamic layout payload for operational campaign pages.
+*   `/wefeed-mobile-bff/tab-operating-ranklistmulti`: Multi-dimension operational rankings and leaderboards.
 
 ### **Auxiliary & Shared APIs**
 *   `/wefeed-mobile-bff/music/like`: Like audio track.
@@ -434,9 +449,37 @@ The following endpoints were extracted directly from the application's service m
 *   `/wefeed-mobile-bff/live/match-detail`: Live sports event matches information.
 *   `/wefeed-mobile-bff/live/sub-upcomming-match`: Subscribe to upcoming live sports event reminders.
 
+### **Live TV & Television Broadcast APIs (`/live/`, `/tv-channel`)**
+*   `/wefeed-mobile-bff/live/tv-country-list`: Lists countries offering linear/broadcast TV streams.
+*   `/wefeed-mobile-bff/live/tv-channel-list-by-country`: Fetch television channels for a given country.
+*   `/wefeed-mobile-bff/live/tv-channel`: Fetch channel metadata and live stream manifest URL.
+*   `/wefeed-mobile-bff/tv-channel-operating`: Layout and promotional configurations for live TV channels.
+
+### **Sports, Matches & Live Scores APIs (`/sport/`, `/sport-news/`)**
+*   `/wefeed-mobile-bff/sport/league-tab`: Tournament and league category tabs (EPL, IPL, UCL, etc.).
+*   `/wefeed-mobile-bff/sport/match-list`: All active, live, and upcoming matches.
+*   `/wefeed-mobile-bff/sport/match-range-list`: Matches queried by custom date/time ranges.
+*   `/wefeed-mobile-bff/sport/match-detail`: Real-time match overview, lineups, live scores, and team info.
+*   `/wefeed-mobile-bff/sport/match-resource-list`: Resolves playable live CDN streaming links for sports matches.
+*   `/wefeed-mobile-bff/sport/match-event-data`: Detailed real-time match events (goals, cards, timeline).
+*   `/wefeed-mobile-bff/sport/match-flow`: Live text-based commentary stream.
+*   `/wefeed-mobile-bff/sport/match-flow-has-new`: Fast polling endpoint to check for incoming commentary updates.
+*   `/wefeed-mobile-bff/sport/match-vote`: Match polls and winner prediction votes.
+*   `/wefeed-mobile-bff/sport/match-sub`: Subscribe to match notifications and kickoff alerts.
+*   `/wefeed-mobile-bff/sport/match-sub-cancel`: Unsubscribe from match alerts.
+*   `/wefeed-mobile-bff/sport/match-sub-list`: List of user's actively subscribed match alerts.
+*   `/wefeed-mobile-bff/sport-news/tab-news`: Categorized sports news feed.
+*   `/wefeed-mobile-bff/sport-news/trending`: Trending sports news headlines.
+
 ### **VIP & Membership**
 *   `GET /wefeed-mobile-bff/vip/member/detail`: Check subscription status and expiry.
 *   `GET /wefeed-mobile-bff/vip/member/rights-check`: Validates if the user can stream 4K/1080p.
+*   `GET /wefeed-mobile-bff/vip/all-member-rights`: Complete feature matrix and entitlement breakdown across membership tiers.
+*   `GET /wefeed-mobile-bff/vip/check-access`: Checks user access/permissions for given stream resolutions.
+*   `POST /wefeed-mobile-bff/vip/entitlement-consume`: Consumes a trial token or single-view entitlement pass.
+*   `GET /wefeed-mobile-bff/vip/member-goods`: Available VIP subscription SKUs and package options.
+*   `POST /wefeed-mobile-bff/vip/migrate-assets`: Migrates legacy subscriptions, coins, or assets to modern account scheme.
+*   `POST /wefeed-mobile-bff/vip/upgrade-rights`: Calculates and processes subscription plan tier upgrades.
 
 ---
 
