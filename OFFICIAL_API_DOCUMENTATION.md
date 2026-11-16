@@ -7,6 +7,21 @@ As of the newly discovered v4.0.02 API, the following critical changes have been
 *   **Identity Headers:** The `X-M-Version` must now be `"4.0.02"`, the `version_code` is `"50020126"`, and the package name changed to `com.community.oneroom`.
 *   **Search API Changes:** The old `GET /wefeed-mobile-bff/subject-api/search` endpoint has been completely removed (returns 404). Searches MUST now be sent as `POST` requests to `/wefeed-mobile-bff/subject-api/search` with the JSON body payload containing `{"keyword": "...", "type": 0, "page": 1, "pageSize": 20}`.
 
+## What's New in MovieBox TV Edition (v1.2.0 / `com.community.mbox.tv`)
+Discovered via deep decompilation of `MovieBox.apk` (`com.community.mbox.tv`, v1.2.0.0923.04, `versionCode = 90040019`):
+*   **Dedicated TV BFF Architecture (`/wefeed-tv-bff/`):** TV clients communicate over a distinct, optimized `/wefeed-tv-bff/` prefix (stripping `-api` suffixes found in mobile routes, e.g. `/subject/play-info/v2` instead of `/subject-api/play-info/v2`).
+*   **Primary API Host:** `https://api6.aoneroom.com`
+*   **Dev/Test Host:** `https://test-mse-api.aoneroom.com` (`8.219.92.106`)
+*   **Dynamic GSLB Gateway:** `https://gslb.shalltry.com/gslb/domain/convert`
+*   **Gateway App Key / Secret:** `4U01pxRu278GqCZKY9` (`StartupManager.java` -> `GateWaySdk.init(application, "4U01pxRu278GqCZKY9", WorkMode.MODE_ONLINE)`).
+*   **Request Signing:** Header `x-tr-signature: {timestamp}|2|{hmac_md5_signature}` generated via HMAC-MD5 on canonical request string: `METHOD\nACCEPT\nCONTENT-TYPE\nCONTENT-LENGTH\nTIMESTAMP\nBODY_MD5\nPATH?SORTED_QUERY`.
+*   **VIP & Player Logic (`vj/e.java`):**
+    *   **Resolution Cap:** `this.isVipSubscriber` defaults to `false`. Non-VIP streams are restricted to 720p max (`vipResolution = 720`).
+    *   **VIP Bypass:** When `isVipSubscriber == true` (or passed `isVip=true` / `vipLevel="1"`), the player unlocks 1080p+ streams and skips ads (`isVipSkipAd = true`).
+*   **OpenSubtitles VIP Commercial Credentials:** Bundled commercial API key (`ZRN9QpqcTxje5UH3bV1RuugwitxkqB53` + `User-Agent: player2024`) enabling direct REST queries against `https://vip-api.opensubtitles.com/api/v1/`.
+*   **TV QR Authentication Handshake:** Remote phone-to-TV pairing via `/wefeed-tv-bff/user/qr-login/create`, `/poll`, and `/fetch`.
+*   **Aggregated Sports Endpoints:** Single-call consolidated sports endpoints (`/wefeed-tv-bff/sport/aggregate-v1` and `/sport/detail-v1`) replacing complex mobile micro-service queries.
+
 ## 1. Client Identity & Headers
 
 The API servers utilize strict header-based filtering to block unauthorized web clients. Native playback and high-fidelity resolution (4K/1080p) require parity with the mobile identity.
@@ -199,6 +214,8 @@ While primary playback resolvers strictly enforce subscription entitlements agai
 ## 4. Internal Secrets (Static)
 Discovered via `AndroidManifest.xml` and Smali string decryption.
 *   **Gateway Secret**: `76iRl07s0xSN9jqmEWAt79EBJZulIQIsV64FZr2O` (Used for sign calculation in some clusters).
+*   **Gateway Secret (TV Edition)**: `4U01pxRu278GqCZKY9` (`StartupManager.java` -> `GateWaySdk.init(...)`).
+*   **OpenSubtitles VIP Commercial Key**: `ZRN9QpqcTxje5UH3bV1RuugwitxkqB53` (User-Agent: `player2024`).
 *   **ByteDance Gecko / Pangle SDK Access Key**: `f36c832c8dbb162c49b46a7a6dd47fbd` (Used during Pangle/Gecko dynamic asset loader initialization)
 *   **Transsion WeFeed Service Secret**: `df70dbad6215444ca9e87ee1078cc681`
 *   **Transsion BuzzBox Service Secret**: `a6b574246ecb4ab99cd00f74a621743a`
@@ -211,6 +228,37 @@ Official subtitles follow a signed-URL pattern stored on `cacdn.hakunaymatata.co
 *   **Internal**: Bundled with `play-info` (Direct URLs).
 *   **External**: Fetched via `resourceId` matching. 
 *   **Formats**: Primary `.srt`, secondary `.vtt`. 
+
+### MovieBox TV Subtitles & OpenSubtitles VIP Integration
+In MovieBox TV, subtitle resolution includes TV-BFF stream captions and OpenSubtitles commercial VIP fallback:
+*   **TV Captions Endpoint**: `GET /wefeed-tv-bff/subject/stream-captions?subjectId={id}&streamId={streamId}` (returns `BffCaptionsData`).
+
+### OpenSubtitles VIP Integration (`vip-api.opensubtitles.com`)
+Extracted from `kk/b.java` in the TV application. The app includes active commercial credentials allowing live multilingual search and download:
+*   **API Base**: `https://vip-api.opensubtitles.com/api/v1`
+*   **Headers Required**:
+    *   `Api-Key`: `ZRN9QpqcTxje5UH3bV1RuugwitxkqB53`
+    *   `User-Agent`: `player2024`
+    *   `Accept`: `application/json`
+    *   `Content-Type`: `application/json`
+*   **Subtitle Search Endpoint**:
+    ```http
+    GET https://vip-api.opensubtitles.com/api/v1/subtitles?query={query}&languages={languages}&season_number={se}&episode_number={ep}
+    ```
+    *   *Parameters*:
+        *   `query`: Clean title string (sanitized of special characters `[\/:#*?"<>|&,]`).
+        *   `languages`: Comma-separated ISO language codes (e.g. `en,hi,es,ar`).
+        *   `season_number`: Season number (omitted for movies).
+        *   `episode_number`: Episode number (omitted for movies).
+    *   *Returns*: `OpenSubtitleResponse` containing `data[]` with `file_id`, `language`, and `download_count`.
+*   **Subtitle Download Endpoint**:
+    ```http
+    POST https://vip-api.opensubtitles.com/api/v1/download
+    Content-Type: application/json
+    
+    {"file_id": "<file_id>"}
+    ```
+    *   *Returns*: `OpenSubtitleDownloadInfo` containing `link` (temporary direct URL to the decrypted `.srt` file), `remaining` download quota, and `file_name`.
 ## 6. Other System Endpoints (Discovery)
 
 Discovered endpoints that manage secondary application logic:
@@ -992,3 +1040,159 @@ The pre-fetch engine queries CDN configurations containing bundle descriptions i
 
 
 
+
+
+---
+
+## 29. MovieBox TV Edition (`/wefeed-tv-bff/`) Full Specification
+
+Discovered via deep decompilation of `MovieBox.apk` (`com.community.mbox.tv`, v1.2.0.0923.04, `versionCode = 90040019`, targetSdk 35).
+
+### I. TV BFF Base Architecture
+*   **Primary API Host**: `https://api6.aoneroom.com` (configured in `CacheIpPool.java`)
+*   **Dev/Test Host**: `https://test-mse-api.aoneroom.com` (`8.219.92.106`)
+*   **Dynamic GSLB Gateway**: `https://gslb.shalltry.com/gslb/domain/convert`
+*   **Gateway App Key / Secret**: `4U01pxRu278GqCZKY9` (`GateWaySdk.init(...)`)
+*   **Routing Namespace**: Uses `/wefeed-tv-bff/` instead of `/wefeed-mobile-bff/`.
+*   **Request Signing**:
+    *   **Header**: `x-tr-signature: {timestamp}|2|{hmac_md5_signature}`
+    *   **Algorithm**: Generated via HMAC-MD5 on canonical request string:
+        ```text
+        METHOD\nACCEPT\nCONTENT-TYPE\nCONTENT-LENGTH\nTIMESTAMP\nBODY_MD5\nPATH?SORTED_QUERY
+        ```
+
+### II. Core Content & Stream Resolution (`/subject/`)
+Defined in Retrofit interface `qk/g.java`:
+1.  **Video Stream Resolver (Play-Info V2)**:
+    ```http
+    GET /wefeed-tv-bff/subject/play-info/v2?subjectId={id}&se={season}&ep={episode}&vipLevel={vipLevel}&host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffBaseResp<BffPlayInfoData>` with `streams[]` (`BffStreamInfo`):
+        *   `url`: Direct playback stream URL.
+        *   `format`: Stream format (`mp4`, `m3u8`, `dash`).
+        *   `resolutions`: Resolution tag (`1080p`, `720p`, `480p`).
+        *   `signCookie`: Signed CDN authentication cookie.
+        *   `codecName`: Codec identifier (`h264`, `hevc`).
+        *   `streamType`: Numerical stream type descriptor.
+        *   `size`: File size in bytes.
+2.  **Subject Episodes & Resources**:
+    ```http
+    GET /wefeed-tv-bff/subject/resource?subjectId={id}&page={page}&perPage={perPage}&se={se}&epFrom={epFrom}&epTo={epTo}&resolution={res}&pagerMode={mode}&host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffBaseResp<BffSubjectResourceData>` with resource links, download targets, and mirrors.
+3.  **Subject Metadata**:
+    ```http
+    GET /wefeed-tv-bff/subject/get?subjectId={id}&host=api6.aoneroom.com
+    ```
+4.  **Season Information**:
+    ```http
+    GET /wefeed-tv-bff/subject/season-info?subjectId={id}&host=api6.aoneroom.com
+    ```
+5.  **Stream Captions / Subtitles**:
+    ```http
+    GET /wefeed-tv-bff/subject/stream-captions?subjectId={id}&streamId={streamId}&host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffBaseResp<BffCaptionsData>` with `captions[]` (`BffExtCaption`): `captionId`, `language`, `languageCode`, `url`, `format`.
+6.  **Audio Dubs**:
+    ```http
+    GET /wefeed-tv-bff/subject/dub-info?subjectId={id}&host=api6.aoneroom.com
+    ```
+7.  **Detail Recommendations**:
+    ```http
+    GET /wefeed-tv-bff/subject/detail-rec?subjectId={id}&page={page}&perPage={perPage}&host=api6.aoneroom.com
+    ```
+
+### III. Live Television Broadcast System (`/live/`)
+Defined in Retrofit interface `qk/d.java`:
+1.  **Country List**:
+    ```http
+    GET /wefeed-tv-bff/live/tv-country-list?host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffTvCountryListData` listing all countries broadcasting live linear TV channels.
+2.  **Channel List by Country**:
+    ```http
+    GET /wefeed-tv-bff/live/tv-channel-list-by-country?countryCode={countryCode}&page={page}&perPage={perPage}&host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffTvChannelListByCountryData` with channel IDs, logos, titles, and language codes.
+3.  **Live Channel Stream Resolver**:
+    ```http
+    GET /wefeed-tv-bff/live/tv-channel?channelId={channelId}&host=api6.aoneroom.com
+    ```
+    *   *Returns*: `BffBaseResp<BffTVChannelData>` with `streams[]` (`BffTVStreamData`):
+        *   `url`: Direct live `.m3u8` / `.mpd` streaming manifest.
+        *   `urlType`: Stream protocol type (`m3u8`).
+        *   `streamType`: Integer stream classification.
+        *   `status`: Stream availability flag.
+4.  **Channel Operating & Banners**:
+    ```http
+    GET /wefeed-tv-bff/live/tv-channel-operating?countryIsoCode={code}&tabId={tabId}&host=api6.aoneroom.com
+    ```
+
+### IV. Consolidated Sports System (`/sport/`)
+Defined in Retrofit interface `qk/c.java`:
+1.  **Sports Aggregation V1**:
+    ```http
+    GET /wefeed-tv-bff/sport/aggregate-v1
+    ```
+    *   *Notes*: Replaces the mobile app's 15+ micro-endpoints. Fetches all live matches, tournament categories, upcoming fixtures, and stream resource links in a single payload.
+2.  **Sports Detail V1**:
+    ```http
+    GET /wefeed-tv-bff/sport/detail-v1?matchId={matchId}
+    ```
+3.  **Genre Top Highlights**:
+    ```http
+    GET /wefeed-tv-bff/subject/genre-top
+    ```
+
+### V. Authentication & TV QR Remote Pairing (`/user/`)
+Defined in Retrofit interfaces `qk/a.java` and `qk/j.java`:
+1.  **TV QR Code Create**:
+    ```http
+    POST /wefeed-tv-bff/user/qr-login/create
+    ```
+    *   *Returns*: `qrCodeId`, image URL, and pairing token for display on TV screen.
+2.  **TV QR Long-Polling**:
+    ```http
+    POST /wefeed-tv-bff/user/qr-login/poll
+    Body: {"qrCodeId": "<id>"}
+    ```
+    *   *Notes*: Long-polls until the user scans and approves the login via their mobile app.
+3.  **TV Session Token Fetch**:
+    ```http
+    POST /wefeed-tv-bff/user/qr-login/fetch
+    Body: {"qrCodeId": "<id>"}
+    ```
+    *   *Returns*: User session token (`token`), `userId`, and `vipLevel`.
+4.  **Visitor Guest Login**:
+    ```http
+    POST /wefeed-tv-bff/user/visitor-login
+    ```
+5.  **User Profile Info**:
+    ```http
+    GET /wefeed-tv-bff/user/info
+    ```
+6.  **User Logout**:
+    ```http
+    POST /wefeed-tv-bff/user/logout
+    ```
+
+### VI. Short Dramas & Mini Series (`/shorts/`)
+Defined in Retrofit interface `qk/f.java`:
+*   `GET /wefeed-tv-bff/shorts/mini-list/v2`: Paginated catalog of short-form vertical dramas.
+*   `GET /wefeed-tv-bff/shorts/get-info`: Series metadata and episode listings.
+*   `GET /wefeed-tv-bff/shorts/mini-captions`: Subtitle tracks for short episodes.
+*   `GET /wefeed-tv-bff/shorts/dub-info`: Available audio dub translations.
+
+### VII. Filter & Category Discovery (`/filter/`)
+Defined in Retrofit interface `qk/b.java`:
+*   `GET /wefeed-tv-bff/filter/tabs`: Root filter tabs for navigation.
+*   `GET /wefeed-tv-bff/filter/items`: Filter tags (year, region, genre, sort).
+*   `GET /wefeed-tv-bff/filter/list`: Filtered movie/series results grid.
+*   `GET /wefeed-tv-bff/tab/list`: TV home layout tabs.
+
+### VIII. VIP & Player Logic (`vj/e.java`)
+Extracted from core player state machine in `vj/e.java`:
+*   **Resolution Cap**:
+    *   `this.isVipSubscriber` defaults to `false`.
+    *   Non-VIP streams are restricted to 720p max (`vipResolution = 720`).
+    *   When `isVipSubscriber == true` (or passed `isVip=true` / `vipLevel="1"`), the player unlocks 1080p+ streams and skips ads (`isVipSkipAd = true`).
